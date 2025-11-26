@@ -1,0 +1,5174 @@
+abandon,버리다; 포기하다
+able (disabled),~할 수 있는; 유능한 (반대: disabled)
+aboard,배·비행기 등에 탄
+abort (abortion),중단하다; 유산시키다 (abortion: 유산)
+abound (abundant),풍부하다; 많이 있다 (abundant: 풍부한)
+about,~에 대하여; 약; 주변에
+above,~위에; 위쪽의
+abroad,해외에; 해외로
+absent,결석한; 부재한
+absolute,절대적인; 완전한
+absorb,흡수하다
+abstract,추상적인; 요약하다
+absurd,터무니없는; 어이없는
+abuse,남용하다; 학대하다; 남용; 학대
+academy,학교; 학원; 학술 기관
+accelerate,가속하다; 더 빨라지다
+accent,억양; 강세; 말투
+accept,받아들이다; 수락하다
+access,접근; 접속; 이용 권한
+accident,사고; 우연한 일
+accommodate,숙박시키다; 수용하다; 맞추어 주다
+accompany,동행하다; 반주하다
+accomplish,완수하다; 이루다
+accord,일치; 합의; 부여하다
+account,계좌; 회계; 설명; 이야기
+accumulate,축적하다; 모으다
+accurate,정확한
+accuse,비난하다; 고소하다
+ache (headache),아프다; 쑤시다 (headache: 두통)
+achieve,달성하다; 이루다
+acid,산성의; 신 맛의; 산
+acknowledge,인정하다; 감사하다
+acquire,획득하다; 습득하다
+acquisition,획득; 취득; 인수
+across,가로질러; 건너편에
+act (actual, interact),행동하다; 연기하다 (actual: 실제의; interact: 상호 작용하다)
+adapt,적응하다; 개조하다
+add,더하다; 추가하다
+addict,중독자; 중독시키다
+address,주소; 연설; (~에게) 말을 걸다
+adequate,충분한; 적절한
+adjust,조정하다; 적응하다
+administer,관리하다; 집행하다; 투여하다
+(administration),행정; 경영; 관리
+admire,존경하다; 감탄하다
+admit (admission),인정하다; 입장을 허가하다 (admission: 입장; 입학; 인정)
+adolescent,청소년의; 청소년
+adopt,입양하다; 채택하다
+adult,성인의; 성인
+advance,전진하다; 진보하다; 사전의; 발전
+advantage (disadvantage),이점; 유리함 (disadvantage: 불리함)
+adventure,모험; 모험심
+adverse,부정적인; 불리한
+advertize / advertise,광고하다
+advice,충고; 조언
+advise,충고하다; 조언하다
+advocate,옹호하다; 지지하다; 옹호자
+aesthetic,미적인; 미학의
+affair,일; 사건; 불륜 관계
+affect (affection),영향을 미치다; 감동시키다 (affection: 애정)
+afford,~할 여유가 있다
+afraid,두려운; 걱정하는
+after,~후에; ~뒤에
+afternoon,오후
+again,다시; 또
+against,~에 반대하여; ~에 맞서
+age,나이; 시대
+agency,대리점; 기관; 정부 기관
+agenda,의제; 안건
+agent,대리인; 중개인; 요원
+aggress (aggressive),공격하다 (aggressive: 공격적인; 적극적인)
+ago,~전에
+agree (disagree),동의하다; 일치하다 (disagree: 동의하지 않다)
+agriculture,농업; 농경
+ahead,앞에; 앞으로
+aid,돕다; 원조; 도움
+aim,목표; 겨냥; 목표로 하다
+air,공기; 공중; 방송하다
+airline,항공사
+airplane / aeroplane,비행기
+airport,공항
+alarm,경보; 자명종; 놀라게 하다
+album,앨범; 사진첩; 음반
+alcohol,알코올; 술
+alert,경계하는; 방심하지 않는; 경보
+alien,외계인; 외국인; 낯선
+alike,비슷한; 서로 같은
+alive,살아 있는; 생기 있는
+all,모든; 전부
+allocate,할당하다; 배분하다
+allow,허락하다; ~하게 두다
+ally,동맹국; 동맹자; 동맹하다
+almost,거의
+alone,혼자; 외로운
+along,~을 따라; 함께
+alongside,~옆에; 나란히
+aloud,소리 내어; 큰 소리로
+already,이미; 벌써
+alright,괜찮은; 만족스러운; 그럭저럭
+also,또한; 게다가
+alter,바꾸다; 변경하다; 개조하다
+alternative,대안; 선택 가능한 것; 대체의
+although,비록 ~일지라도
+altitude,고도; 높이
+altogether,완전히; 전적으로; 모두 합쳐
+amaze,놀라게 하다
+ambassador,대사; 대표자
+ambition,야망; 포부
+ambulance,구급차
+amend,수정하다; 개정하다
+amid,~가운데에; ~속에서
+amount,양; 액수; 총계가 ~에 달하다
+amuse,재미있게 하다; 즐겁게 하다
+analysis,분석
+ancestor,조상; 선조
+ancient,고대의; 오래된
+and,그리고; ~와
+angel,천사; 선한 사람
+anger,화; 분노
+angle,각도; 관점
+animal,동물
+announce,발표하다; 알리다
+annual,매년의; 연례의
+anonymous,익명의
+another,또 다른; 또 하나의
+answer,대답; 해답; 답하다
+anticipate,예상하다; 기대하다
+anxiety,불안; 걱정
+anxious,불안해하는; 갈망하는
+any,어떤; 조금도; 아무나
+apart,떨어져; 따로
+apartment,아파트
+apologize,사과하다
+apology,사과; 변명
+app (application),앱; 응용 프로그램
+apparatus,장치; 기구
+apparent,명백한; 겉보기의
+appeal,호소하다; 매력; 항소하다
+appear,나타나다; ~처럼 보이다
+appearance,외모; 등장; 출현
+appetite,식욕; 욕구
+applaud,박수 치다; 칭찬하다
+apply,지원하다; 적용하다; 바르다
+appoint,임명하다; 정하다
+appreciate,감사하다; 감상하다; 가치 있게 여기다
+approach,접근하다; 접근; 처리 방법
+appropriate,적절한; 적당한
+approval,승인; 찬성
+approve,승인하다; 찬성하다
+approximate,대략의; 근사치의
+April,4월
+arch,아치; 아치형 구조물
+architect,건축가
+architecture,건축학; 건축 양식
+area,지역; 구역; 면적
+argue,논쟁하다; 주장하다
+argument,논쟁; 말다툼; 주장
+arise,발생하다; 생기다
+arm,팔; 무장시키다
+army,군대; 육군
+around,주변에; 약; 대략
+arrange,정리하다; 준비하다; 배열하다
+arrangement,배열; 준비; 합의
+arrest,체포하다; 막다; 체포
+arrival,도착
+arrive,도착하다
+arrogant,거만한; 오만한
+arrow,화살; 화살표
+art,예술; 미술
+article,기사; 물건; 품목
+artist,예술가; 화가
+artistic,예술적인; 예술 감각이 있는
+as,~처럼; ~로서; ~할 때
+ash,재; 잿더미
+ashamed,부끄러운; 수치스러운
+aside,한쪽에; 따로
+ask,묻다; 요청하다
+asleep,잠든
+aspect,측면; 양상; 관점
+assemble,모이다; 조립하다
+assembly,모임; 집회; 조립
+assess,평가하다; 판단하다
+assessment,평가; 검토
+asset,자산; 강점
+assign,할당하다; 배정하다
+assignment,과제; 임무
+assist,도와주다; 보조하다
+assistant,조수; 보조자
+associate,연관짓다; 관련시키다; 동료
+association,협회; 단체; 연관
+assume,가정하다; 맡다; 추정하다
+assumption,가정; 추정
+assure,보증하다; 확신시키다
+astonish,깜짝 놀라게 하다
+astronaut,우주비행사
+athlete,운동선수
+athletic,운동의; 운동선수 같은
+atmosphere,대기; 분위기
+atomic,원자의; 원자력의
+attach,붙이다; 첨부하다
+attack,공격하다; 공격
+attempt,시도하다; 시도
+attend,참석하다; 돌보다; ~에 주의를 기울이다
+attendance,출석; 참석
+attention,주의; 관심
+attitude,태도; 자세
+attract,끌다; 유혹하다
+attraction,매력; 관광 명소
+attractive,매력적인
+attribute,속성; 탓으로 돌리다
+audio,오디오; 음향의
+August,8월
+aunt,이모; 고모; 숙모
+author,저자; 작가
+authority,권위; 당국; 권한
+automatic,자동의
+autonomy,자치; 자율
+available,이용 가능한; 쓸 수 있는
+average,평균; 보통의; 평균의
+avoid,피하다; 막다
+await,기다리다
+awake,깨어 있는; 깨우다
+award,상; 상을 주다
+aware,알고 있는; 인식하는
+away,멀리; 떨어져
+awful,끔찍한; 지독한; 최악의
+awkward,어색한; 서투른
+baby,아기; 어린
+back,뒤; 뒤로; 등
+background,배경; 경력; 이력
+backward,뒤쪽의; 거꾸로; 퇴보한
+bacteria,박테리아; 세균
+bad,나쁜; 좋지 않은
+badly,심하게; 형편없이
+bag,가방; 봉지; 담다
+bake,굽다
+balance,균형; 잔액; 균형을 맞추다
+ball,공; 무도회
+ban,금지하다; 금지
+banana,바나나
+band,악단; 밴드; 띠
+bank,은행; 둑; 제방
+bar,막대; 술집; 장애물
+bare,벌거벗은; 드러낸
+barely,거의 ~아니다; 간신히
+bargain,흥정하다; 싸게 사는 물건; 거래
+barrier,장벽; 장애물
+base,기초; 기반; 기지
+basic,기본적인; 기초의
+basin,대야; 세면대
+basis,근거; 기준
+basket,바구니
+basketball,농구; 농구공
+bat,박쥐; 방망이
+bath,목욕; 욕조
+bathroom,욕실; 화장실
+battery,배터리; 건전지
+battle,전투; 싸우다
+bay,만(灣); 작은 항구
+be,~이다; 있다
+beach,해변; 백사장
+beam,광선; 빛줄기; 들보
+bean,콩
+bear,곰; 참다; 견디다
+beard,수염
+beast,짐승; 야수
+beat,이기다; 두드리다; 리듬
+beautiful,아름다운
+beauty,아름다움; 미모
+because,왜냐하면
+become,~이 되다; 어울리다
+bed,침대
+bedroom,침실
+bee,벌
+beef,쇠고기
+beer,맥주
+before,~전에; 앞에
+beg,구걸하다; 간청하다
+begin,시작하다
+beginner,초보자
+beginning,시작; 처음
+behave,행동하다; 예의 바르게 하다
+behavior,행동; 태도; 품행
+behind,뒤에; 뒤로
+being,존재; 생명체
+belief,신념; 믿음
+believe,믿다; 신뢰하다
+bell,종; 종소리
+belong,~에 속하다; 소유이다
+below,아래에; 아래로
+belt,벨트; 허리띠
+bench,벤치; 긴 의자
+bend,구부리다; 굽다
+beneath,~아래에
+benefit,이익; 혜택; 이익을 얻다
+beside,~옆에
+besides,게다가; ~외에도
+best,최고의; 가장 잘
+bet,내기하다; 장담하다
+better,더 좋은; 더 잘
+between,~사이에
+beyond,~저편에; 넘어서
+bicycle,자전거
+bid,입찰하다; 시도하다
+big,큰; 거대한
+bike,자전거(구어)
+bill,청구서; 지폐; 법안
+billion,십억
+bind,묶다; 결합시키다
+biography,전기; 생애 기록
+biology,생물학
+bird,새
+birth,출생; 탄생
+birthday,생일
+biscuit,비스킷
+bite,물다; 한 입
+bitter,쓴; 쓰라린; 혹독한
+black,검은; 어두운
+blade,날; 칼날
+blame,비난하다; 탓하다
+blank,빈; 공백; 빈칸
+blanket,담요
+blast,폭발; 강한 돌풍
+bleed,피를 흘리다
+blend,섞다; 혼합하다
+bless,축복하다
+blind,눈이 먼; 맹목적인
+block,블록; 구역; 막다
+blood,피; 혈액
+bloom,꽃이 피다; 개화
+blow,불다; 강타; 타격
+blue,파란; 우울한
+board,판자; 게시판; 탑승하다
+boast,자랑하다; 뽐내다
+boat,배
+body,몸; 신체
+boil,끓다; 끓이다
+bold,대담한; 굵은
+bomb,폭탄; 폭파하다
+bond,유대; 속박; 채권
+bone,뼈
+bread,빵
+break,부수다; 휴식; 고장나다
+breakfast,아침식사
+breath,숨; 호흡
+breathe,숨쉬다; 호흡하다
+breed,번식하다; 기르다; 품종
+breeze,산들바람; 미풍
+brick,벽돌
+bridge,다리; 연결하다
+brief,간단한; 짧은; 요약
+bright,밝은; 똑똑한
+brilliant,훌륭한; 매우 밝은; 눈부신
+bring,가져오다; 데려오다
+broad,넓은; 폭넓은
+broadcast,방송하다; 방송
+broccoli,브로콜리
+broken,부서진; 고장 난
+brother,형제
+brown,갈색의
+brush,솔; 빗; 닦다
+bubble,거품
+budget,예산; 비용
+buffalo,들소; 버팔로
+build,짓다; 만들다
+building,건물; 빌딩
+bulb,전구; 식물의 구근
+bulk,대부분; 큰 덩어리
+bullet,총알
+bunch,묶음; 다발
+bundle,묶음; 꾸러미
+burden,부담; 짐
+bureau,사무국; 책상; 관청
+burn,타다; 태우다
+burst,터지다; 파열
+bury,묻다; 매장하다
+bus,버스
+bush,덤불; 관목
+business,사업; 업무; 일
+busy,바쁜
+but,그러나; ~을 제외하고
+butter,버터
+button,단추; 버튼
+buy,사다; 구입하다
+buzz,윙윙거리다; 소문
+by,~옆에; ~까지; ~함으로써
+cabbage,양배추
+cabin,오두막; 선실
+cabinet,장; 내각
+cable,케이블; 전선
+cafe,카페
+cage,우리; 감금하다
+cake,케이크
+calculate,계산하다
+calendar,달력
+call,부르다; 전화하다; 요청
+calm,차분한; 진정시키다
+camera,카메라
+camp,캠프; 야영하다
+campaign,운동; 캠페인; 군사 행동
+campus,캠퍼스; 교정
+can,~할 수 있다; 깡통
+cancel,취소하다
+cancer,암; 종양
+candidate,후보; 지원자
+candle,양초
+candy,사탕
+canoe,카누
+cap,모자; 뚜껑; 상한선
+capable,능력 있는; ~할 수 있는
+capacity,용량; 능력
+capital,수도; 자본
+captain,선장; 주장; 대장
+capture,붙잡다; 포획하다
+car,자동차
+carbon,탄소
+card,카드; 명함
+care,돌봄; 관심; 주의
+career,직업; 경력
+careful,조심스러운; 신중한
+careless,부주의한; 조심성 없는
+cargo,화물
+carpenter,목수
+carpet,카펫; 양탄자
+carriage,마차; 수송
+carrier,운반자; 항공사; 통신사
+carrot,당근
+carry,운반하다; 나르다
+cart,수레; 카트
+cartoon,만화; 애니메이션
+carve,조각하다; 새기다
+case,경우; 사건; 용기
+cash,현금
+cassette,카세트
+castle,성; 성곽
+casual,평상복의; 우연한
+cat,고양이
+catalog,목록; 카탈로그
+catch,잡다; 붙잡다; 이해하다
+category,범주; 종류
+cater,음식·서비스를 제공하다
+cattle,소; 가축
+cause,원인; 야기하다
+caution,주의; 경고
+cave,동굴
+cease,그만두다; 중지하다
+ceiling,천장
+celebrate,축하하다; 기념하다
+celebration,축하; 기념
+celebrity,유명인; 연예인
+cell,세포; 방; 독방; 셀
+cemetery,묘지
+cent,센트
+center (centre),중심; 중앙
+century,세기; 100년
+ceremony,의식; 행사
+certain,확실한; 어떤
+certificate,증명서; 자격증
+chain,사슬; 체인; 연속
+chair,의자; 의장
+chairman,의장; 회장
+chalk,분필
+challenge,도전; 난제; 도전하다
+chamber,방; 실; 의회
+champion,챔피언; 우승자; 옹호하다
+chance,기회; 가능성
+change,변화; 바꾸다; 거스름돈
+channel,채널; 경로; 수로
+chaos,혼란; 무질서
+chapter,장(章); 시기
+character,성격; 등장인물; 문자
+characteristic,특징; 특성
+charge,요금; 책임; 고발하다; 충전하다
+charity,자선; 자비
+charm,매력; 매혹; 부적
+chart,차트; 도표; 기록
+chase,추격하다; 쫓다; 추격
+chat,대화하다; 채팅하다
+cheap,값싼; 저렴한
+cheat,속이다; 부정행위하다
+check,확인하다; 점검하다; 수표
+cheek,볼; 뺨
+cheer,응원하다; 환호하다
+cheerful,명랑한; 기분 좋은
+cheese,치즈
+chef,요리사; 주방장
+chemical,화학의; 화학 물질
+chemist,약사; 화학자
+chemistry,화학
+cherry,체리
+chess,체스
+chest,가슴; 흉부; 상자
+chew,씹다
+chicken,닭; 닭고기
+chief,우두머리; 주요한
+child,아이; 아동
+childhood,어린 시절; 유년기
+chimney,굴뚝
+chin,턱
+china,도자기; 중국
+chip,조각; 감자칩; 칩(반도체)
+chocolate,초콜릿
+choice,선택
+choose,선택하다
+chorus,합창; 후렴
+Christ,그리스도
+Christian,기독교인; 기독교의
+Christmas,크리스마스
+church,교회; 예배당
+cigarette,담배
+cinema,영화관; 영화
+circle,원; 동그라미; 둘러싸다
+circumstance,상황; 환경
+cite,인용하다; 언급하다
+citizen,시민
+city,도시
+civil,시민의; 민간의; 정중한
+civilization,문명
+claim,주장하다; 요구하다; 청구
+clap,박수 치다
+clarify,명확하게 하다
+clarity,명확성
+clash,충돌하다; 충돌
+class,수업; 반; 계급
+classic,고전적인; 일류의
+classical,고전의; 전통적인
+classify,분류하다
+classroom,교실
+clause,절(문법); 조항
+clay,점토; 찰흙
+clean,깨끗한; 청소하다
+clear,맑은; 분명한; 치우다
+clerk,점원; 사무원
+clever,영리한; 재치 있는
+client,고객; 의뢰인
+cliff,절벽
+climate,기후
+climb,오르다; 올라가다
+clinic,진료소; 병원
+clip,클립; 잘라내다; 영상 한 부분
+clock,시계
+close,닫다; 가까운; 친한
+closet,옷장; 벽장
+cloth,천; 옷감
+clothes,옷
+cloud,구름
+club,클럽; 동아리
+clue,실마리; 단서
+cluster,무리; 집단
+coach,코치; 지도자; 객차
+coal,석탄
+coast,해안
+coat,코트; 외투
+cocoa,코코아
+coffee,커피
+coin,동전; 화폐; (신조어를) 만들다
+cold,추운; 감기
+collapse,무너지다; 붕괴하다
+collar,칼라; 옷깃
+collect,모으다; 수집하다
+collection,수집; 모음; 컬렉션
+college,대학
+colon,결장; 콜론(:)
+colony,식민지; 군집
+color (colour),색; 색깔; 색칠하다
+column,기둥; 칼럼; 열(column)
+comb,빗; 빗질하다
+combat,전투; 싸우다
+combine,결합하다; 합치다
+come,오다
+comedy,코미디; 희극
+comfort,위로; 편안함; 위로하다
+comfortable,편안한
+comic,만화; 익살스러운
+command,명령하다; 지휘하다; 명령
+comment,논평; 의견
+commerce,상업; 무역
+commercial,상업적인; 광고
+commission,위원회; 수수료; 의뢰하다
+commit,저지르다; 약속하다; 헌신하다
+commitment,약속; 전념; 헌신
+committee,위원회
+common,흔한; 공통의
+communicate,의사소통하다
+communication,의사소통; 통신
+community,공동체; 지역사회
+company,회사; 동료
+compare,비교하다
+comparison,비교
+compass,나침반; 컴퍼스
+compete,경쟁하다
+competition,경쟁; 시합
+competitive,경쟁의; 경쟁력 있는
+complain,불평하다; 항의하다
+complaint,불평; 불만 사항
+complete,완전한; 완성하다
+complex,복잡한; 콤플렉스; 단지
+complicate,복잡하게 하다
+complicated,복잡한
+component,구성 요소; 부품
+compose,구성하다; 작곡하다
+composer,작곡가
+composition,구성; 작문; 합성
+comprehensive,포괄적인; 종합적인
+compress,압축하다
+compromise,타협하다; 타협
+computer,컴퓨터
+concentrate,집중하다
+concentration,집중; 농도
+concept,개념
+concern,걱정; 관심사; 관련되다
+concert,콘서트; 연주회
+conclude,결론짓다; 끝내다
+conclusion,결론; 종결
+concrete,콘크리트; 구체적인
+condition,상태; 조건
+conduct,행동하다; 수행하다; 관리하다; 행동
+conference,회의; 학회
+confess,고백하다; 자백하다
+confidence,자신감; 신뢰
+confident,자신 있는; 확신하는
+confirm,확인하다; 확정하다
+conflict,갈등; 충돌; 충돌하다
+confuse,혼동하다; 혼란스럽게 하다
+confusion,혼란; 당황
+congratulate,축하하다
+congratulation,축하; 경축
+connect,연결하다; 연결되다
+connection,연결; 관련; 접속
+conquer,정복하다; 이기다
+conscience,양심
+conscious,의식하는; 의식이 있는
+consciousness,의식; 자각
+consent,동의하다; 동의; 허가
+consequence,결과; 중요성
+conservative,보수적인; 전통적인
+consider,고려하다; 숙고하다
+considerable,상당한; 많은
+consideration,고려; 배려
+consist,구성되다; ~로 이루어지다
+consistent,일관된; 한결같은
+constant,지속적인; 일정한
+constantly,끊임없이; 계속해서
+construct,건설하다; 구성하다
+construction,건설; 구조
+consult,상담하다; 자문을 구하다
+consume,소비하다; 먹다
+consumer,소비자
+contact,연락; 접촉; 연락하다
+contain,포함하다; 담고 있다
+container,용기; 컨테이너
+contemporary,현대의; 동시대의
+content,내용; 만족한
+contest,경연; 대회; 경쟁하다
+context,문맥; 상황
+continent,대륙
+continue,계속하다; 지속되다
+continuous,계속적인; 연속적인
+contract,계약; 수축하다; 계약하다
+contrast,대조; 대비
+contribute,기여하다; 공헌하다
+control,통제하다; 제어하다; 통제
+convenience,편의; 편리
+convenient,편리한; 간편한
+convention,관습; 대회; 협약
+conversation,대화; 회화
+convert,전환하다; 개조하다
+convince,납득시키다; 확신시키다
+cook,요리하다; 요리사
+cookie,쿠키; 과자
+cooking,요리; 조리
+cool,시원한; 멋진; 식히다
+cooperate,협력하다; 협동하다
+cooperation,협력; 협조
+cope,대처하다; 맞서다
+copy,복사하다; 복사본
+coral,산호
+cord,끈; 전선
+core,핵심; 중심부
+corn,옥수수
+corner,모서리; 구석
+corporate,기업의; 법인의
+correct,맞는; 올바른; 수정하다
+correspond,일치하다; 대응하다; 서신을 주고받다
+corridor,복도; 회랑
+cost,비용; 비용이 들다
+costume,의상; 복장
+cottage,오두막집; 시골집
+cotton,면; 목화
+cough,기침하다; 기침
+could,~할 수 있었다 (can의 과거)
+council,의회; 협의회
+count,세다; 계산하다; 중요하다
+counter,계산대; 반대의; 반박하다
+country,나라; 시골
+countryside,시골 지역
+county,카운티; 지역 행정구역
+courage,용기; 담력
+course,강의; 과정; 코스; 진로
+court,법정; 궁정; 코트
+cousin,사촌
+cover,덮다; 덮개; 포함하다
+cow,암소
+coward,겁쟁이
+crack,금 가다; 깨지다; 균열
+craft,공예; 기술; 만들다
+crash,추락하다; 충돌하다; 고장 나다
+crawl,기어가다; 서행하다
+crazy,미친; 말도 안 되는
+cream,크림; 크림색
+create,창조하다; 만들다
+creation,창조; 생성물
+creative,창의적인
+creature,생명체; 동물
+credit,신용; 학점; 믿음; 칭찬
+crew,승무원; 작업반
+crime,범죄; 죄
+criminal,범인; 범죄의
+crisis,위기
+crisp,바삭바삭한; 상쾌한
+critic,비평가; 비난하는 사람
+critical,비판적인; 중대한
+criticism,비판; 비평
+criticize,비판하다; 비난하다
+crop,작물; 수확량
+cross,건너다; 십자형; 교차하다
+crowd,군중; 붐비다
+crown,왕관; 왕위
+crucial,중요한; 결정적인
+cruel,잔인한; 잔혹한
+crush,으깨다; 짓누르다
+cry,울다; 외치다
+crystal,수정; 결정
+cube,정육면체; 입방체
+cultivate,경작하다; 재배하다; 계발하다
+culture,문화
+cup,컵; 잔
+cupboard,찬장; 벽장
+cure,치료하다; 치료
+curious,호기심 많은; 궁금한
+curiosity,호기심
+curl,곱슬곱슬하게 하다; 말리다
+currency,통화; 화폐
+current,현재의; 흐름; 전류
+curse,저주하다; 욕하다
+curve,곡선; 굽이
+custom,관습; 세관(customs); 주문 제작(custom)
+customer,고객; 손님
+cut,자를다; 감축하다; 베다; 삭감
+cycle,순환; 자전거; 주기
+dad (daddy),아빠; 아버지
+daily,매일의; 일상의
+damage,손상; 피해; 손상시키다
+damp,축축한
+dance,춤추다; 춤
+danger,위험
+dangerous,위험한
+dare,감히 ~하다; 도전하다
+dark,어두운; 짙은
+darkness,어둠
+darling,사랑하는 사람; 여보; 자기
+data,데이터; 자료
+database,데이터베이스
+date,날짜; 데이트; 대추야자
+daughter,딸
+dawn,새벽; 동틀 녘
+day,날; 하루
+daylight,일광; 낮
+dead,죽은; 생명이 없는
+deadly,치명적인; 몹시
+deaf,귀가 먹은
+deal,거래; 처리하다; 다루다
+dear,친애하는; 소중한
+death,죽음
+debate,토론하다; 토론
+debt,빚; 부채
+decade,10년; 10년간
+decay,부패하다; 썩다; 쇠퇴
+deceive,속이다
+December,12월
+decent,괜찮은; 품위 있는
+decide,결정하다
+decision,결정; 결단
+declare,선언하다; 공표하다
+decline,감소하다; 쇠퇴하다; 거절하다
+decorate,장식하다; 꾸미다
+decoration,장식; 장식품
+decrease,줄다; 감소하다; 감소
+dedicate,헌신하다; 바치다
+deduction,공제; 연역
+deed,행위; 업적
+deep,깊은; 심오한
+deer,사슴
+defeat,패배시키다; 이기다; 패배
+defend,방어하다; 지키다
+defense (defence),방어; 수비
+defensive,방어적인
+deficiency,부족; 결핍
+define,정의하다; 규정하다
+definite,명확한; 확실한
+definition,정의; 의미
+degree,정도; 학위; 도(각도·온도)
+delay,지연; 미루다
+delete,삭제하다
+deliberate,고의의; 신중한; 심사숙고하다
+delicate,섬세한; 민감한
+delicious,맛있는
+delight,기쁨; 기쁘게 하다
+deliver,배달하다; 전달하다
+delivery,배달; 분만
+demand,요구하다; 수요
+democracy,민주주의
+democratic,민주적인
+demon,악마; 귀신
+demonstrate,설명하다; 시연하다; 증명하다
+dense,빽빽한; 밀도가 높은
+density,밀도
+deny,부인하다; 거절하다
+depart,출발하다; 떠나다
+department,부서; 학과; 백화점 매장
+departure,출발
+depend,의존하다; 달려 있다
+dependent,의존적인
+deposit,예금하다; 보증금; 침전물
+depress,우울하게 하다; 하락시키다
+depth,깊이; 심도
+describe,묘사하다; 설명하다
+description,설명; 묘사
+desert,사막; 버리다
+deserve,~할 가치가 있다; 받을 만하다
+design,설계하다; 디자인; 고안하다
+designer,디자이너; 설계자
+desire,욕망; 바람; 바라다
+desk,책상; 사무실
+despair,절망; 절망하다
+desperate,절박한; 필사적인
+despite,~에도 불구하고
+destination,목적지; 도착지
+destroy,파괴하다; 없애다
+destruction,파괴; 파멸
+detail,세부사항; 자세히 설명하다
+detailed,자세한
+detect,감지하다; 발견하다
+detective,형사; 탐정
+determination,결심; 결단력
+determine,결정하다; 규명하다
+develop,발전하다; 개발하다
+development,발달; 발전; 개발
+device,장치; 기기
+devil,악마
+devote,헌신하다; 바치다
+diagram,도표; 다이어그램
+dial,전화를 걸다; 다이얼
+dialogue,대화; 대사
+diameter,지름
+diary,일기
+dictionary,사전
+die,죽다
+diet,식단; 다이어트
+differ,다르다; 의견이 다르다
+difference,차이
+different,다른; 다양한
+difficult,어려운
+difficulty,어려움; 곤란
+dig,파다; 캐다
+digital,디지털의
+dignity,존엄; 품위
+dilemma,딜레마; 궁지
+dimension,차원; 크기; 규모
+dine,식사하다
+dinner,저녁식사
+dip,담그다; 살짝 적시다
+diploma,졸업장; 자격증
+direct,직접적인; 지시하다; 감독하다
+direction,방향; 지시
+director,감독; 이사; 관리자
+dirt,흙; 먼지
+dirty,더러운
+disable,무능하게 하다; 장애를 입히다
+disagree,동의하지 않다
+disappear,사라지다; 없어지다
+disappoint,실망시키다
+disaster,재난; 참사
+discard,버리다; 폐기하다
+discourage,낙담시키다; 좌절시키다
+discover,발견하다
+discovery,발견; 발굴
+discuss,토론하다; 논의하다
+discussion,토론; 논의
+disease,질병
+disgust,역겹게 하다; 혐오감
+dish,접시; 요리
+dismiss,해고하다; 무시하다; 기각하다
+disorder,장애; 무질서
+display,전시하다; 표시하다; 전시
+distance,거리; 간격
+distant,먼; 멀리 있는
+distinct,뚜렷한; 별개의
+distinguish,구별하다; 식별하다
+distress,괴로움; 고통
+distribute,분배하다; 유통하다
+district,구역; 지역
+disturb,방해하다; 어지럽히다
+dive,잠수하다; 뛰어들다
+diverse,다양한
+diversity,다양성
+divide,나누다; 분리하다
+division,분할; 부서; 나눗셈
+divorce,이혼; 이혼하다
+dizzy,어지러운
+do,하다; 해내다
+docile,온순한; 다루기 쉬운
+doctor,의사; 박사
+document,문서; 서류
+documentary,다큐멘터리
+dog,개
+dogma,신조; 독단적인 신념
+doll,인형
+dollar,달러
+domain,영역; 분야; 도메인
+domestic,가정의; 국내의
+dominant,지배적인; 우세한
+dominate,지배하다; 장악하다
+donate,기부하다; 기증하다
+donation,기부; 기증품
+donkey,당나귀
+doom,파멸; 비운; 운명
+door,문
+dose,복용량; 투여하다
+dot,점; 찍다
+double,두 배의; 이중의
+doubt,의심; 의심하다
+dough,반죽
+down,아래로; 내려가는
+dozen,1다스(12개)
+draft,초안; 선발하다
+drag,끌다; 끌고 가다
+drain,배수하다; 물을 빼다
+drama,드라마; 연극
+dramatic,극적인; 인상적인
+draw,그리다; 끌다
+drawer,서랍
+drawing,그림; 제도
+dream,꿈; 꿈꾸다
+dress,옷; 드레스; 옷을 입다
+drift,표류하다; 떠돌다
+drill,드릴; 훈련하다; 구멍을 뚫다
+drink,마시다; 음료
+drive,운전하다; 몰다
+driver,운전자
+drop,떨어뜨리다; 떨어지다; 하락
+drought,가뭄
+drown,익사하다; 물에 빠뜨리다
+drug,약물; 약; 마약
+drum,북; 드럼
+drunk,취한
+dry,건조한; 말리다
+duck,오리
+due,만기의; ~때문에(due to)
+dull,지루한; 칙칙한; 둔한
+dumb,멍청한; 말을 못하는
+dump,버리다; 던져놓다
+during,~동안에
+dust,먼지; 가루; 털다
+duty,의무; 임무; 관세
+dwell,살다; 거주하다
+dye,염색하다; 염료
+dynamic,역동적인; 활발한
+eager,열망하는; 간절히 바라는
+eagle,독수리
+ear,귀
+early,일찍; 초기의
+earn,벌다; 얻다
+earnest,진지한; 성실한
+earth,지구; 땅; 흙
+earthquake,지진
+ease,쉬움; 편안함; 덜어주다
+east,동쪽
+eastern,동쪽의; 동양의
+easy,쉬운
+eat,먹다
+echo,메아리; 반향
+ecology,생태학
+economic,경제의
+economical,경제적인; 절약하는
+economy,경제; 절약
+edge,가장자리; 모서리; 우위
+edit,편집하다
+edition,판; 간행물
+editor,편집자
+educate,교육하다
+education,교육
+effect,영향; 효과
+effective,효과적인
+efficiency,효율성
+efficient,효율적인
+effort,노력
+egg,달걀
+ego,자아; 자존심
+eight,여덟
+eighth,여덟 번째
+either,둘 중 하나; ~거나
+elaborate,정교한; 상세한; 자세히 설명하다
+elbow,팔꿈치
+elder,연장자; 나이가 더 많은
+elect,선출하다
+election,선거
+electric,전기의; 전기를 이용하는
+electrical,전기와 관련된
+electricity,전기
+electronic,전자식의
+electronics,전자공학; 전자기기
+elegant,우아한; 세련된
+element,요소; 성분; 원소
+elephant,코끼리
+elevator,엘리베이터
+eleven,열한
+eligible,자격이 있는; 적격의
+eliminate,제거하다; 없애다
+elite,엘리트; 최상류층
+else,그 밖의; 다른
+elsewhere,어딘가에; 다른 곳에
+embarrass,당황하게 하다; 난처하게 하다
+embassy,대사관
+embrace,포옹하다; 받아들이다
+emerge,나오다; 나타나다; 생겨나다
+emergency,비상사태
+emotion,감정; 정서
+emotional,감정적인; 정서적인
+emphasis,강조; 중점
+emphasize,강조하다
+empire,제국
+employ,고용하다
+employee,직원; 피고용인
+employer,고용주
+employment,고용; 직업
+empty,빈; 비우다
+enable,가능하게 하다
+encounter,우연히 만나다; 맞닥뜨리다; 만남
+encourage,격려하다; 장려하다
+end,끝; 종료하다
+ending,결말; 끝맺음
+endless,끝없는; 무한한
+endorse,지지하다; 승인하다
+enemy,적; 원수
+energy,에너지; 힘
+engage,참여하다; 약혼하다; 관여하다
+engagement,약혼; 참여; 관여
+engine,엔진; 기관
+engineer,엔지니어; 기술자
+engineering,공학; 기술
+engineer,엔지니어; 기술자
+enhance,향상시키다; 강화하다
+enjoy,즐기다
+enlarge,확대하다; 크게 하다
+enormous,거대한; 막대한
+enough,충분한; 충분히
+ensure,보장하다; 확실히 하다
+enter,들어가다; 입력하다
+enterprise,기업; 사업; 진취성
+entertain,즐겁게 하다; 대접하다
+entertainment,오락; 연예; 환대
+enthusiasm,열정; 열광
+enthusiastic,열정적인; 열렬한
+entire,전체의; 완전한
+entitle,권리를 주다; 제목을 붙이다
+entrance,입구; 입장
+entry,입장; 기입; 항목
+envelope,봉투
+environment,환경; 주변 상황
+environmental,환경의; 환경 보호의
+episode,에피소드; 사건
+equal,같은; 동등한; 맞먹다
+equality,평등; 동등
+equation,방정식; 등식; 균형
+equip,장비를 갖추다; 준비시키다
+equipment,장비; 설비
+equivalent,동등한; 상당하는
+era,시대
+error,오류; 실수
+escape,도망치다; 탈출하다; 피하다
+especially,특히
+essay,수필; 글; 에세이
+essential,필수적인; 본질적인
+establish,설립하다; 확립하다
+establishment,설립; 기관; 시설
+estate,재산; 토지; 부동산
+estimate,추정하다; 평가하다
+eternal,영원한; 끊임없는
+ethic,윤리; 도덕
+ethnic,민족의; 인종의
+evaluate,평가하다
+evaluation,평가
+evaporate,증발하다
+even,심지어; ~조차도; 평평한; 짝수의
+evening,저녁; 저녁 시간
+event,사건; 행사
+eventually,결국; 마침내
+ever,언제나; 지금까지
+every,모든; 매~
+everyday,매일의; 일상적인
+everyone,모두; 모든 사람
+everything,모든 것
+everywhere,어디에나
+evidence,증거; 근거
+evil,악; 사악한
+evolution,진화; 발전
+evolve,진화하다; 발달하다
+exact,정확한; 엄밀한
+exactly,정확히; 바로
+exam,시험
+examine,검사하다; 조사하다; 시험하다
+example,예; 본보기
+exceed,넘다; 초과하다
+excellent,훌륭한; 뛰어난
+except,~을 제외하고
+exception,예외
+excess,초과; 과잉
+exchange,교환하다; 환전하다; 교환
+excite,흥분시키다; 들뜨게 하다
+excitement,흥분; 짜릿함
+exciting,신나는; 흥미진진한
+exclude,제외하다
+excuse,용서하다; 변명; 핑계
+exercise,운동하다; 연습하다; 운동; 연습
+exhaust,기진맥진하게 하다; 배기
+exhibit,전시하다; 전시물
+exhibition,전시; 전람회
+exist,존재하다; 실재하다
+existence,존재; 삶
+exit,출구; 나가다
+expand,확장하다; 넓히다
+expansion,확장; 팽창
+expect,기대하다; 예상하다
+expectation,기대; 예상
+expedition,원정; 탐험
+expense,비용; 지출
+expensive,비싼
+experience,경험; 겪다
+experiment,실험; 실험하다
+expert,전문가
+expertise,전문 기술; 숙련
+explain,설명하다
+explanation,설명; 해명
+explode,폭발하다; 터지다
+exploit,착취하다; 활용하다
+explore,탐험하다; 조사하다
+explosion,폭발
+export,수출하다; 수출
+expose,드러내다; 노출하다
+exposure,노출; 폭로
+express,표현하다; 급행의
+expression,표현; 표현 방식
+extend,확장하다; 연장하다
+extension,확장; 연장; 증축
+extensive,광범위한
+extent,정도; 범위
+external,외부의; 외적인
+extra,추가의; 특별한
+extraordinary,비범한; 특별한
+extreme,극단적인; 극심한
+extremely,매우; 극도로
+eye,눈
+eyebrow,눈썹
+fabric,직물; 천; 구조
+face,얼굴; 직면하다
+facility,시설; 편의
+fact,사실; 진실
+factor,요인; 요소
+factory,공장
+faculty,학부; 능력
+fade,흐려지다; 사라지다
+fail,실패하다; 낙제하다
+failure,실패; 고장
+faint,희미한; 기절하다
+fair,공정한; 박람회; 상당한
+fairly,상당히; 꽤; 공정하게
+faith,신뢰; 믿음; 신앙
+faithful,성실한; 충실한
+fall,떨어지다; 가을; 넘어지다
+false,거짓의; 잘못된
+fame,명성
+familiar,익숙한; 친숙한
+family,가족
+famous,유명한
+fan,팬; 부채
+fancy,장식적인; 고급의; 공상하다
+fantastic,환상적인; 굉장한
+far,멀리; 먼
+fare,요금
+farm,농장; 농사를 짓다
+farmer,농부
+farming,농업
+fashion,패션; 유행; 방식
+fast,빠른; 빨리; 단식하다
+fat,지방; 살찐; 뚱뚱한
+fatal,치명적인; 매우 심각한
+fate,운명
+father,아버지
+fault,잘못; 결함
+favor (favour),호의; 선호; 찬성
+favorite (favourite),가장 좋아하는; 인기 있는
+fear,두려움; 두려워하다
+feast,잔치; 축하 연회
+feather,깃털
+feature,특징; 특성; 이목구비
+federal,연방의
+fee,요금; 수수료
+feed,먹이다; 먹다
+feedback,피드백; 반응
+feel,느끼다; 기분
+feeling,감정; 느낌
+fellow,동료; 친구
+female,여성; 암컷
+fence,울타리; 장벽
+festival,축제; 잔치
+fetch,가지고 오다; 데리고 오다
+fever,열; 열병
+few,거의 없는; 약간의; 소수
+fiber (fibre),섬유
+fiction,소설; 허구
+field,들판; 분야; 경기장
+fierce,사나운; 격렬한
+fifteen,열다섯
+fifth,다섯 번째
+fifty,오십
+fight,싸우다; 싸움
+fighter,전투기; 싸우는 사람
+figure,숫자; 인물; 모습; 수치
+file,파일; 서류철; 정리하다
+film,영화; 필름
+filter,필터; 여과하다
+final,최종의; 마지막의
+finally,마침내; 결국
+finance,재정; 금융
+financial,재정의; 금융의
+find,찾다; 발견하다
+fine,좋은; 질 좋은; 벌금; 미세한
+finger,손가락
+finish,끝내다; 마무리하다
+fire,불; 화재; 해고하다
+firm,딱딱한; 단단한; 회사
+first,첫 번째; 처음의
+fish,물고기; 낚시하다
+fisherman,어부
+fishing,낚시
+fit,맞다; 적합한; 건강한
+fitness,건강; 체력
+five,다섯
+fix,고치다; 고정시키다
+flag,깃발
+flame,불꽃; 화염
+flank,측면; 옆구리
+flash,번쩍임; 플래시; 번쩍이다
+flat,평평한; 아파트(영국)
+flavor (flavour),맛; 향미
+flee,도망치다; 달아나다
+flesh,살; 고기
+flexible,유연한; 융통성 있는
+flight,비행; 항공편; 도망
+float,뜨다; 부유하다
+flood,홍수; 범람하다
+floor,바닥; 층
+flour,밀가루
+flow,흐르다; 흐름
+flower,꽃
+flu,독감
+fluctuate,변동하다; 오르내리다
+fluid,유체; 액체; 유동적인
+flush,물 내리다; 붉어지다
+fly,날다; 파리
+focus,초점; 집중하다
+fog,안개
+fold,접다; 접힌 부분
+folk,사람들; 민속의
+follow,따르다; 따라가다
+following,다음의; 뒤따르는
+fond,좋아하는
+food,음식
+fool,바보; 속이다
+foot,발; 피트(길이 단위)
+football,축구
+for,~을 위해; ~동안; ~에 대해
+forbid,금지하다
+force,힘; 강요하다; 군대
+forecast,예보하다; 예측하다
+forehead,이마
+foreign,외국의; 낯선
+foreigner,외국인
+forest,숲; 삼림
+forever,영원히
+forget,잊다; 잊어버리다
+forgive,용서하다
+fork,포크; 갈래
+form,형태; 양식; 형성하다
+formal,정식의; 형식적인
+formation,형성; 구성; 대형
+former,이전의; 전자의
+formula,공식; 제조법
+forth,앞으로; 밖으로
+fortune,운; 재산; 행운
+forty,마흔
+forward,앞으로; 전방으로
+fossil,화석
+foster,촉진하다; 육성하다; 기르다
+found,설립하다; find의 과거
+foundation,기초; 재단; 설립
+fountain,분수; 샘
+four,넷
+fourteen,열네
+fourth,네 번째
+fox,여우
+fraction,부분; 분수
+fragile,깨지기 쉬운; 연약한
+fragment,파편; 조각
+frame,틀; 뼈대; 액자
+framework,뼈대; 구조
+free,자유로운; 무료의; 풀어주다
+freedom,자유
+freeze,얼다; 얼리다
+frequent,빈번한
+frequently,자주; 빈번히
+fresh,신선한; 생생한
+friction,마찰; 갈등
+friend,친구
+friendly,친근한; 다정한
+friendship,우정
+fright,공포; 두려움
+frighten,놀라게 하다; 겁먹게 하다
+frog,개구리
+from,~로부터; ~에서
+front,앞; 정면
+frost,서리
+frown,찡그리다; 눈살을 찌푸리다
+frozen,얼어붙은; freeze의 과거분사
+fruit,과일
+frustrate,좌절시키다; 짜증나게 하다
+fuel,연료; 에너지원
+fulfill (fulfil),이행하다; 충족시키다
+full,가득 찬; 완전한
+fun,재미; 즐거움
+function,기능; 작용하다
+fund,자금; 기금
+fundamental,근본적인; 기초의
+funeral,장례식
+funny,재미있는; 웃긴
+fur,털; 모피
+furniture,가구
+further,더 멀리; 추가적인
+future,미래
+gain,얻다; 증가; 이익
+gallery,미술관; 갤러리
+game,게임; 경기
+gang,갱단; 무리
+gap,틈; 격차; 간격
+garage,차고; 주차장
+garbage,쓰레기
+garden,정원
+garlic,마늘
+gas,가스; 휘발유
+gasp,헐떡이다; 숨이 턱 막히다
+gate,문; 출입구
+gather,모으다; 모이다
+gay,명랑한; 동성애자
+gaze,응시하다; 바라보다
+gear,기어; 장비
+general,일반적인; 대체적인; 장군
+generate,발생시키다; 생성하다
+generation,세대; 발생
+generous,관대한; 후한
+genius,천재; 비범한 재능
+genre,장르; 유형
+gentle,온화한; 부드러운
+gentleman,신사
+genuine,진짜의; 진실된
+geography,지리학
+geometry,기하학
+germ,세균; 미생물
+gesture,몸짓; 제스처
+get,얻다; 받다; 되다
+ghost,유령
+giant,거인; 거대한 것
+gift,선물; 재능
+gifted,재능 있는
+girl,소녀; 여자아이
+girlfriend,여자친구
+give,주다; 제공하다
+glad,기쁜; 반가운
+glance,흘끗 보다
+glass,유리; 컵; 안경(복수 glasses)
+global,세계적인; 전 세계의
+globe,지구본; 구체
+glory,영광; 영예
+glove,장갑
+glow,빛나다; 빛남
+glue,접착제; 붙이다
+go,가다
+goal,목표; 득점
+goat,염소
+god,신; 하느님
+gold,금; 금빛의
+golden,황금의; 소중한
+golf,골프
+good,좋은; 선한; 상품(goods)
+goodbye,안녕; 잘 가
+goods,상품; 물품
+goose,거위
+gorilla,고릴라
+gospel,복음; 신조
+gossip,헛소문; 잡담; 수다
+govern,통치하다; 지배하다
+government,정부
+governor,주지사; 통치자
+gown,가운; 예복
+grab,붙잡다; 움켜쥐다
+grace,우아함; 은총
+grade,학년; 성적; 등급
+gradual,점진적인; 서서히 진행되는
+graduate,졸업하다; 졸업생
+grain,곡물; 알갱이
+grammar,문법
+grand,웅장한; 거대한
+grandfather,할아버지
+grandmother,할머니
+grant,허가하다; 승인하다; 보조금
+grape,포도
+graph,그래프
+grasp,붙잡다; 이해하다
+grass,풀; 잔디
+grateful,감사하는
+grave,무덤; 진지한
+gravity,중력; 진지함
+gray (grey),회색의
+great,훌륭한; 큰; 위대한
+greatly,크게; 대단히
+greedy,욕심 많은; 탐욕스러운
+green,녹색; 환경 친화적인
+greet,맞이하다; 인사하다
+greeting,인사; 환영
+greyhound,그레이하운드(개 종류)
+grid,격자; 전력망
+grief,슬픔; 비탄
+grip,잡다; 장악
+grocery,식료품; 식료품 가게
+ground,땅; 근거; 운동장
+group,무리; 그룹
+grow,자라다; 성장하다
+growth,성장; 발달
+guarantee,보장하다; 보증
+guard,경비원; 보호하다
+guess,추측하다; 짐작하다
+guest,손님; 방문객
+guide,안내하다; 안내원
+guideline,지침; 기준
+guilty,유죄의; 죄책감을 느끼는
+guitar,기타
+gun,총; 대포
+guts,용기; 배짱
+habit,습관; 버릇
+habitat,서식지; 거주지
+hair,머리카락; 털
+haircut,이발; 커트
+half,절반; 절반의
+hall,홀; 복도; 회관
+hallway,복도; 통로
+halt,멈추다; 중단시키다
+ham,햄
+hammer,망치; 두드리다
+hand,손; 건네주다
+handful,한 움큼; 소수
+handle,다루다; 처리하다; 손잡이
+handsome,잘생긴
+hang,매달다; 걸다; 목매달다
+happen,일어나다; 발생하다
+happiness,행복
+happy,행복한
+harbor (harbour),항구
+hard,단단한; 어려운; 열심히
+harden,굳히다; 강화하다
+hardly,거의 ~아니다
+harm,해; 해치다
+harmless,해롭지 않은; 무해한
+harmony,조화; 화음
+harsh,가혹한; 거친
+harvest,수확하다; 수확
+hat,모자
+hate,미워하다; 싫어하다
+haul,끌다; 운반하다
+have,가지고 있다; 먹다
+hawk,매; 팔러 돌아다니다
+hay,건초
+hazard,위험; 위험 요소
+he,그
+head,머리; 우두머리; 향하다
+headache,두통
+headline,헤드라인; 제목
+headquarters,본부
+heal,치유하다; 낫게 하다
+health,건강
+healthy,건강한; 유익한
+heap,더미; 쌓다
+hear,듣다
+hearing,청력; 공청회
+heart,심장; 마음
+heat,열; 뜨겁게 하다
+heaven,천국; 하늘
+heavy,무거운; 심한
+heel,뒤꿈치
+height,높이; 신장
+helicopter,헬리콥터
+hell,지옥
+hello,안녕; 여보세요
+helmet,헬멧
+help,돕다; 도움
+helpful,도움이 되는
+hemisphere,반구; 영역
+hen,암탉
+hence,그러므로; 따라서
+her,그녀의; 그녀를
+herb,허브; 약초
+herd,떼; 무리
+here,여기
+heritage,유산
+hero,영웅
+heroic,영웅적인
+herself,그녀 자신
+hesitate,망설이다; 주저하다
+hidden,숨겨진; hide의 과거분사
+hide,숨기다; 숨다
+high,높은; 높게
+highlight,강조하다; 하이라이트
+highway,고속도로
+hill,언덕
+hillside,언덕 비탈
+him,그를
+himself,그 자신
+hint,힌트; 암시; 암시하다
+hip,엉덩이; 유행의
+hire,고용하다; 빌리다
+his,그의
+historian,역사가
+historic,역사적으로 중요한
+historical,역사적인; 역사에 관한
+history,역사
+hit,치다; 타격; 히트곡
+hobby,취미
+hold,잡다; 보류하다; 개최하다
+hole,구멍
+holiday,휴가; 휴일
+hollow,속이 빈; 움푹한
+holy,신성한
+home,집; 고향
+homeland,조국
+homework,숙제
+honest,정직한
+honesty,정직; 성실
+honey,꿀; 친애하는 사람
+honor,명예; 존경; ~에게 영광을 주다
+hook,갈고리; 걸다
+hope,희망; 바라다
+hopeful,희망찬; 기대하는
+horizon,지평선; 수평선
+horn,뿔; 경적
+horrible,끔찍한
+horror,공포; 무서움
+horse,말
+hospital,병원
+host,주인; 진행자
+hostage,인질
+hostess,여주인; 여자 진행자
+hostile,적대적인; 반대하는
+hot,뜨거운; 매운
+hotel,호텔
+hour,시간
+house,집; 주택
+household,가구(집단); 가정의
+housing,주택; 주거
+how,어떻게; 얼마나
+however,그러나; 아무리 ~일지라도
+hug,포옹하다; 껴안다
+huge,거대한
+human,인간의; 인간
+humidity,습도
+humble,겸손한; 소박한
+humor (humour),유머
+hundred,백
+hunger,배고픔; 굶주림
+hungry,배고픈
+hunt,사냥하다
+hunter,사냥꾼
+hurry,서두르다; 서두름
+hurt,다치게 하다; 아프다; 상처
+husband,남편
+hut,오두막; 작은 집
+hybrid,혼합물; 하이브리드
+hydrogen,수소
+hypothesis,가설
+ice,얼음
+iceberg,빙산
+icecream,아이스크림
+icon,상징; 아이콘
+idea,아이디어; 생각
+ideal,이상적인; 이상
+identity,정체성; 신원
+identify,식별하다; 확인하다
+idiom,관용구; 숙어
+idle,게으른; 놀고 있는
+idol,우상; 아이돌
+if,만약 ~라면
+ignore,무시하다
+ill,아픈; 병든
+illegal,불법의
+illness,질병; 병
+illusion,환상; 착각
+illustrate,설명하다; 삽화를 넣다
+image,이미지; 영상
+imaginary,상상의
+imagination,상상력
+imagine,상상하다
+imitate,모방하다; 흉내 내다
+immediate,즉각적인; 당면한
+immense,엄청난; 거대한
+immune,면역의; 면역성이 있는
+impact,영향; 충격
+impatient,성급한; 참을성 없는
+imperial,제국의; 황실의
+implement,실행하다; 도구
+implication,함축; 영향
+imply,암시하다; 의미하다
+import,수입하다; 수입
+importance,중요성
+important,중요한
+impose,부과하다; 강요하다
+impossible,불가능한
+impress,감동시키다; 인상을 주다
+impression,인상; 느낌
+impressive,인상적인; 훌륭한
+improve,향상시키다; 개선하다
+improvement,향상; 개선
+impulse,충동; 자극
+in,안에; 속에
+incentive,장려책; 유인
+inch,인치(길이 단위)
+incident,사건; 우발적 사건
+include,포함하다
+including,~을 포함하여
+income,소득; 수입
+increase,증가하다; 늘리다
+incredible,믿을 수 없는; 놀라운
+indeed,정말; 참으로
+independent,독립적인; 자주적인
+index,지수; 색인
+indicate,나타내다; 표시하다
+indication,징후; 표시
+indifferent,무관심한; 냉담한
+indigenous,토착의; 원산의
+indirect,간접적인
+individual,개인의; 개인
+indoor,실내의
+induce,유도하다; 설득하다
+industry,산업; 근면
+industry (industrial),산업; 공업의
+inevitable,피할 수 없는; 불가피한
+infant,유아; 아기
+infect,감염시키다
+infection,감염; 전염
+infer,추론하다; 유추하다
+infinite,무한한
+influence,영향; 영향을 미치다
+influenza,독감
+inform,알리다; 통지하다
+information,정보; 안내
+ingredient,재료; 성분
+inhabit,거주하다
+inhabitant,주민
+inherit,상속하다; 물려받다
+initial,처음의; 초기의; 머리글자
+initiative,주도권; 계획
+inject,주사하다; 주입하다
+injure,부상을 입히다; 해치다
+injury,부상; 상처
+inn,여관; 작은 호텔
+inner,내부의
+innocent,결백한; 순진한
+innovation,혁신
+innovative,혁신적인
+input,입력; 투입
+inquire,문의하다; 조사하다
+inquiry,문의; 조사
+insane,미친; 정신이상의
+insect,곤충
+insert,삽입하다
+inside,안쪽; 내부에
+insight,통찰력
+insist,주장하다; 고집하다
+inspect,검사하다; 조사하다
+inspire,영감을 주다
+install,설치하다
+instance,사례; 경우
+instant,즉각적인; 즉석의
+instead,대신에
+instinct,본능
+institute,기관; 협회; 설립하다
+institution,기관; 제도
+instruct,지시하다; 가르치다
+instruction,지시; 설명서
+instrument,도구; 악기
+insult,모욕하다; 모욕
+insurance,보험
+intact,손상되지 않은; 완전한
+intake,섭취량; 흡입
+integrate,통합하다
+integrity,정직; 성실; 완전성
+intellectual,지적인; 지식인
+intelligence,지능; 정보
+intelligent,똑똑한; 지적인
+intend,의도하다; ~할 작정이다
+intense,강렬한; 격렬한
+intensity,강도; 세기
+intent,의도; 목적; 열중한
+interact,소통하다; 상호작용하다
+interaction,상호작용
+interest,흥미; 관심; 이자
+interesting,흥미로운
+interfere,간섭하다; 방해하다
+interior,내부; 실내; 내부의
+intermediate,중급의; 중간의
+internal,내부의
+international,국제적인
+Internet (internet),인터넷
+interpret,해석하다; 통역하다
+interrupt,방해하다
+interval,간격; 휴식
+interview,인터뷰; 면접; 인터뷰하다
+intimate,친밀한; 사적인
+into,~안으로; ~속으로
+introduce,소개하다; 도입하다
+introduction,소개; 도입
+invade,침입하다; 침략하다
+invasion,침입; 침략
+invent,발명하다
+invention,발명품
+inventory,목록; 재고
+invest,투자하다
+investigate,조사하다; 수사하다
+investment,투자
+invisible,보이지 않는
+invitation,초대; 초대장
+invite,초대하다
+involve,관여시키다; 포함하다
+involved,관련된; 연루된
+iron,철; 다림질하다
+ironic,아이러니한; 반어적인
+irony,아이러니; 풍자
+irregular,불규칙한
+island,섬
+isolate,고립시키다; 격리하다
+issue,문제; 발행하다
+it,그것
+item,항목; 물건
+its,그것의
+itself,그것 자체
+ivory,상아; 아이보리색
+jacket,재킷; 자켓
+jail,감옥; 투옥하다
+jam,막히다; 혼잡; 잼
+jar,단지; 병
+jaw,턱
+jazz,재즈
+jealous,질투하는; 시샘하는
+jeans,청바지
+jelly,젤리
+jewel,보석; 보물
+jewelry,보석류; 장신구
+job,직업; 일
+join,가입하다; 연결하다
+joint,관절; 공동의; 이음매
+joke,농담; 놀리다
+journal,일기; 신문; 학술지
+journey,여행; 여정
+joy,기쁨; 즐거움
+judge,판사; 판단하다
+judgment (judgement),판단; 판결
+juice,주스
+jump,뛰다; 점프
+jungle,정글; 밀림
+junior,손아랫사람; 후배; 연소자
+jury,배심원단
+just,단지; 방금; 공정한
+justice,정의; 공정성
+justify,정당화하다
+keen,열렬한; 예리한
+keep,유지하다; 보관하다
+keeper,관리인; 보호자
+kettle,주전자
+key,열쇠; 핵심
+keyboard,키보드
+kick,차다; 킥; 발길질
+kid,아이; 놀리다
+kill,죽이다
+killer,살해자; 위험한 것
+kilometer (kilometre),킬로미터
+kind,종류; 친절한
+king,왕
+kingdom,왕국
+kiss,키스; 입맞추다
+kit,도구 세트; 키트
+kitchen,부엌
+kite,연
+knee,무릎
+kneel,무릎을 꿇다
+knife,칼
+knit,뜨개질하다; 엮다
+knock,두드리다; 노크하다
+knot,매듭; 매듭짓다
+know,알다; 알고 있다
+knowledge,지식
+lab,실험실
+label,라벨; 꼬리표; 부착하다
+labor (labour),노동; 노동력
+laboratory,실험실 연구소
+lace,레이스; 끈
+lack,부족; 결핍; 부족하다
+ladder,사다리
+lady,숙녀; 여성
+lake,호수
+lamp,램프; 등
+land,땅; 착륙하다
+landscape,풍경; 경치
+lane,차선; 길
+language,언어; 말
+lap,무릎; 한 바퀴
+laptop,노트북 컴퓨터
+large,큰; 대형의
+last,마지막의; 지속되다
+late,늦은; 나중에
+lately,최근에
+later,나중에; 후에
+laugh,웃다; 웃음
+laughter,웃음; 폭소
+launch,출시하다; 발사하다
+laundry,세탁물; 세탁소
+law,법; 법칙
+lawn,잔디밭
+lawsuit,소송
+lawyer,변호사
+layer,층; 겹
+layout,배치; 배열
+lazy,게으른
+lead,이끌다; 선도하다; 납(금속)
+leader,지도자
+leadership,리더십; 지도력
+leaf,나뭇잎
+league,연맹; 리그
+leak,새다; 누출
+lean,기울이다; 기대다; 야윈
+learn,배우다
+least,가장 적은; 최소한의
+leather,가죽
+leave,떠나다; 남기다
+lecture,강의; 강연
+left,왼쪽; 떠난 (leave의 과거/과거분사)
+leg,다리
+legal,법적인; 합법적인
+legend,전설
+leisure,여가; 한가함
+lend,빌려주다
+length,길이
+lens,렌즈
+leopard,표범
+less,더 적은; 덜
+lesson,수업; 교훈
+let,허락하다; ~하게 하다
+letter,편지; 글자
+level,수준; 층; 평평하게 하다
+lever,지레; 레버
+library,도서관
+license,면허; 허가증
+lid,뚜껑
+lie,거짓말; 눕다; lie-lay-lain
+life,삶; 생명; 생활
+lifetime,일생; 평생
+lift,들어 올리다; 엘리베이터(영)
+light,빛; 가벼운; 불을 켜다
+lightning,번개
+like,좋아하다; ~처럼
+likely,~할 것 같은; 아마
+limit,한계; 제한하다
+limited,제한된
+line,선; 줄; 노선; 대사
+link,연결하다; 연결; 링크
+lion,사자
+lip,입술
+liquid,액체; 유동체
+list,목록; 나열하다
+listen,듣다
+listener,청자; 듣는 사람
+liter,리터
+literacy,문해력; 읽고 쓰는 능력
+literal,글자 그대로의
+literary,문학의
+literature,문학; 문헌
+little,작은; 적은
+live,살다; 생방송으로
+lively,활기찬; 생생한
+liver,간(인체 기관)
+living,살아있는; 생활의
+load,짐; 부담; 싣다
+loan,대출; 빌려주다
+local,지역의; 지방의
+locate,위치를 찾다
+location,위치; 장소
+lock,잠그다; 자물쇠
+log,통나무; 기록
+logic,논리
+logical,논리적인
+lonely,외로운
+long,긴; 오랫동안
+look,보다; ~처럼 보이다; 표정
+loop,고리; 반복
+loose,느슨한; 풀린
+lord,군주; 지배자
+lorry,트럭(영국)
+lose,잃다; 지다
+loss,손실; 손해
+lot,많음; 다수; 부지
+loud,시끄러운; 큰 소리의
+love,사랑; 사랑하다
+lovely,사랑스러운; 예쁜
+lover,연인
+low,낮은; 적은
+lower,내리다; 더 낮은
+loyal,충성스러운; 신의 있는
+loyalty,충성; 충성심
+luck,운; 행운
+lucky,행운의
+luggage,수하물; 짐
+lumber,목재; 잡동사니
+lump,덩어리
+lunch,점심
+lung,폐
+luxury,사치; 고급품
+machine,기계
+machinery,기계류; 기계장치
+mad,미친; 화난
+magazine,잡지
+magic,마법; 마술
+magnet,자석
+magnetic,자기적인; 자성을 띤
+magnificent,장엄한; 훌륭한
+maid,하녀; 소녀
+mail,우편; 메일; 보내다
+main,주요한; 중심의
+mainly,주로
+maintain,유지하다; 관리하다
+maintenance,유지; 보수
+major,주요한; 대다수의; 전공
+majority,대다수; 과반수
+make,만들다; 하게 하다
+maker,제조업자; 만드는 사람
+makeup,화장; 구성요소
+male,남성; 수컷
+mall,쇼핑몰
+man,남자; 사람
+manage,관리하다; 경영하다; 해내다
+management,경영; 관리
+manager,관리자; 매니저
+mankind,인류
+manly,남자다운; 씩씩한
+mansion,대저택; 큰 집
+manual,수동의; 설명서
+manufacture,제조하다; 생산하다
+manufacturer,제조업자; 생산자
+many,많은
+map,지도; 약도
+marble,대리석; 구슬
+march,행진하다; 3월(March)
+margin,여백; 차이; 수익
+marine,바다의; 해양의
+mark,표시; 자국; 점수; 표시하다
+market,시장; 마켓
+marriage,결혼; 결혼생활
+married,결혼한
+marry,결혼하다
+mask,가면; 마스크; 숨기다
+mass,덩어리; 대량; 질량
+massage,마사지
+massive,거대한; 대규모의
+master,주인; 석사; 숙달하다
+match,경기; 성냥; 짝; 어울리다
+material,재료; 물질; 물질의
+mathematics (math),수학
+maths,수학(영국식)
+matter,문제; 물질; 중요하다
+mature,성숙한; 숙성하다
+maximum,최대; 최대의
+may,~일지도 모른다; 5월(May)
+maybe,아마도
+mayor,시장(도시의 행정 책임자)
+me,나를; 나에게
+meal,식사
+mean,의미하다; 비열한; 평균
+meaning,의미
+meantime,그동안; 동시에
+meanwhile,그동안; 한편
+measure,측정하다; 조치; 기준
+measurement,측정; 치수
+meat,고기
+mechanic,정비사
+mechanical,기계의; 기계적인
+mechanism,기구; 구조; 방식
+medal,메달
+media,미디어; 매체
+medical,의학의; 의료의
+medicine,약; 의학
+medieval,중세의
+medium,중간의; 매체
+meet,만나다; 충족시키다
+meeting,회의; 만남
+melt,녹다; 녹이다
+member,구성원; 회원
+membership,회원자격; 소속
+memory,기억; 메모리
+mental,정신의; 마음의
+mention,언급하다
+menu,메뉴; 식단표
+merchant,상인; 무역상
+mercy,자비; 동정
+mere,단지 ~에 불과한
+merely,단지; 그저
+merge,합병하다; 합치다
+merit,장점; 뛰어남
+merry,즐거운; 명랑한
+mess,엉망; 혼란
+message,메시지; 전갈
+messenger,전달자; 메신저
+metal,금속
+metaphor,은유; 비유
+method,방법; 방식
+metre (meter),미터
+middle,중간; 가운데
+midnight,자정
+might,~할 수도 있다; 힘
+mild,온화한; 약한
+mile,마일(거리 단위)
+military,군대의; 군사의
+milk,우유; 짜다
+mill,방앗간; 공장
+million,백만
+mind,마음; 정신; 꺼리다
+mine,광산; 내 것
+mineral,광물; 미네랄
+minimum,최소; 최소의
+minister,장관; 목사
+minor,사소한; 미성년자
+minority,소수; 소수집단
+minute,분; 순간; 아주 작은
+miracle,기적
+mirror,거울
+miserable,불쌍한; 비참한
+misery,비참함; 고통
+mislead,오도하다; 잘못 인도하다
+miss,놓치다; 그리워하다
+missile,미사일
+missing,없어진; 빠진
+mission,임무; 사명
+mist,안개
+mistake,실수; 잘못
+misunderstand,오해하다
+mix,섞다; 혼합물
+mixture,혼합물
+mobile,이동식의; 휴대폰(모바일)
+mock,조롱하다; 흉내내다
+mode,방식; 형태
+model,모델; 본보기
+moderate,적당한; 완화하다
+modern,현대의; 현대적인
+modest,겸손한; 소박한
+modify,수정하다; 바꾸다
+moment,순간
+Monday,월요일
+money,돈
+monitor,화면; 감시하다
+monkey,원숭이
+monster,괴물
+month,월; 한 달
+monthly,매월의
+mood,기분; 분위기
+moon,달
+moral,도덕적인; 교훈
+more,더 많은; 더
+moreover,게다가; 더욱이
+morning,아침
+mortal,죽을 운명의; 인간
+mortgage,담보 대출; 저당
+most,가장 많은; 대부분의; 대부분
+mostly,대체로; 주로
+mother,어머니
+motion,움직임; 동작
+motivate,동기를 부여하다
+motive,동기; 이유
+motor,모터
+motorcycle,오토바이
+mount,오르다; 설치하다; 산
+mountain,산
+mouse,쥐; 컴퓨터 마우스
+mouth,입
+move,움직이다; 이사하다
+movement,움직임; 운동
+movie,영화
+much,많이; 많은
+mud,진흙
+multiply,곱하다; 증가시키다
+mum (mom),엄마
+murder,살인; 살해하다
+muscle,근육
+museum,박물관
+music,음악
+musical,뮤지컬; 음악의
+musician,음악가
+must,~해야 한다
+mutual,상호의; 공동의
+my,나의
+myself,나 자신
+mysterious,신비한; 불가사의한
+mystery,수수께끼; 신비
+myth,신화; 사회적 통념
+nail,손톱; 못; 못을 박다
+naive,순진한; 천진난만한
+name,이름; 명명하다
+narrative,이야기; 서술
+narrow,좁은; 제한된
+nasty,불쾌한; 심술궂은
+nation,국가; 민족
+national,국가의; 국민의
+native,원주민의; 태어난 곳의
+natural,자연의; 자연스러운
+nature,자연; 본성
+naughty,버릇없는; 말 안 듣는
+navy,해군
+near,가까운; 가까이에
+nearby,근처의; 인근의
+nearly,거의
+neat,깔끔한; 정돈된
+necessary,필요한; 필수의
+necessity,필수품; 필요성
+neck,목; 목덜미
+need,필요; 필요로 하다
+needle,바늘; 주사 바늘
+negative,부정적인; 음성의
+neglect,방치하다; 무시하다
+negotiate,협상하다; 교섭하다
+neighbor (neighbour),이웃
+neighborhood,이웃; 지역
+neither,둘 다 아닌; 어느 쪽도 ~아니다
+nerve,신경; 용기
+nervous,긴장한; 불안한
+nest,둥지
+net,그물; 순수한; 인터넷
+network,네트워크; 조직망
+neutral,중립의
+never,절대; 결코 ~않다
+nevertheless,그럼에도 불구하고
+new,새로운
+newly,새로이
+news,뉴스; 소식
+newspaper,신문
+next,다음의; 옆의
+nice,좋은; 멋진
+night,밤
+nightmare,악몽
+nine,아홉
+nineteen,열아홉
+ninety,아흔
+ninth,아홉 번째
+no,아니오; ~이 아닌
+noble,고귀한; 숭고한
+nobody,아무도 ~않다; 보잘것없는 사람
+nod,끄덕이다; 고개를 끄덕임
+noise,소음; 시끄러움
+noisy,시끄러운
+none,아무도 ~아니다; 아무것도 ~없다
+nonsense,말도 안 됨; 허튼소리
+noodle,국수; 면
+normal,정상적인; 보통의
+normally,보통; 정상적으로
+north,북쪽
+northern,북쪽의; 북부의
+nose,코
+not,~아니다
+note,메모; 주목하다; 음표
+notebook,노트; 공책
+nothing,아무것도 ~아님; 무
+notice,주의하다; 공지; 주목
+notify,알리다; 통지하다
+notion,개념; 생각
+novel,소설; 새로운
+November,11월
+now,지금; 이제
+nowadays,요즘; 현재
+nowhere,어디에도 ~없다
+nuclear,핵의; 원자력의
+nurse,간호사
+nursery,탁아소; 유치원; 묘목장
+nurture,양육하다; 기르다
+nut,견과류; 너트(볼트와 연결되는 부품)
+nutrition,영양; 영양 섭취
+oak,참나무
+oath,맹세; 서약
+obey,순종하다; 따르다
+object,물체; 목적; 반대하다
+objection,반대; 이의
+objective,목표; 객관적인
+obligation,의무; 책임
+observation,관찰; 주시
+observe,관찰하다; 지켜보다
+obsess,집착하다; 사로잡히게 하다
+obstacle,장애물; 방해
+obtain,얻다; 획득하다
+obvious,명백한; 분명한
+occasion,경우; 행사
+occasional,가끔의
+occupation,직업; 점령
+occupy,차지하다; 점유하다
+occur,발생하다; 일어나다
+ocean,바다; 해양
+October,10월
+odd,이상한; 홀수의
+odor (odour),냄새; 악취
+of,~의; ~에 대한
+off,떨어져; 벗어나; 작동하지 않는
+offend,기분 상하게 하다; 범죄를 저지르다
+offense (offence),범죄; 공격; 위반
+offer,제공하다; 제안하다
+office,사무실; 회사
+officer,직원; 장교
+official,공식적인; 공무원
+often,자주; 흔히
+oh,오!; 어!
+oil,기름; 석유
+okay (OK),좋아; 알겠습니다
+old,오래된; 나이 든
+olive,올리브
+on,~위에; 켜져 있는
+once,한 번; 일단 ~하면
+one,하나; 한 사람
+onion,양파
+online,온라인의; 온라인에서
+only,오직; 단지
+onto,~위로; ~위에
+open,열다; 열린
+operate,작동하다; 운영하다
+operation,작동; 수술; 운영
+operator,작동자; 교환원
+opinion,의견
+opponent,상대; 적대자
+opportunity,기회
+oppose,반대하다
+opposite,반대의; 맞은편의
+oppress,억압하다; 탄압하다
+optical,시각의; 광학의
+optimistic,낙관적인
+option,선택; 선택권
+optional,선택적인; 임의의
+oral,구두의; 입의
+orange,오렌지; 주황색의
+orbit,궤도
+orchestra,오케스트라
+order,순서; 명령; 주문하다
+ordinary,보통의; 평범한
+organ,기관; 오르간
+organic,유기농의; 유기적인
+organization,조직; 단체
+organize,조직하다; 준비하다
+origin,기원; 출신
+original,원래의; 독창적인
+originate,유래하다; 시작되다
+ornament,장식품; 장식하다
+orphan,고아
+other,다른; 그 밖의
+otherwise,그렇지 않으면; 다른 방식으로
+ought,~해야 한다
+our,우리의
+ourselves,우리 자신
+out,밖으로; 밖에
+outcome,결과; 결말
+outdoor,야외의
+outer,외부의
+outlet,출구; 콘센트; 판매점
+outline,개요; 윤곽
+output,산출; 출력
+outside,밖에; 바깥
+outstanding,뛰어난; 두드러진
+oven,오븐
+over,~위에; 끝난; 넘어서
+overall,전체의; 종합적인
+overcome,극복하다
+overlook,간과하다; 내려다보다
+overnight,밤새; 하룻밤 사이에
+overseas,해외의; 해외로
+owe,빚지다; ~덕분이다
+own,소유하다; 자신의
+owner,소유자
+ownership,소유권
+oxygen,산소
+oyster,굴
+pace,속도; 보폭; 걸음
+pack,꾸러미; 포장하다; 짐을 싸다
+package,꾸러미; 패키지; 소포
+packet,작은 봉지; 팩
+page,페이지
+pain,고통; 아픔
+painful,고통스러운
+paint,페인트; 칠하다; 그리다
+painter,화가; 칠하는 사람
+painting,그림; 페인팅
+pair,한 쌍; 두 개
+palace,궁전
+pale,창백한; 엷은
+palm,손바닥; 야자나무
+pan,팬; 냄비
+panel,판; 패널; 토론단
+panic,공포; 당황; 공황
+pants,바지
+paper,종이; 신문; 논문
+parade,퍼레이드; 행렬
+paradise,천국; 낙원
+paragraph,문단; 단락
+parallel,평행의; 유사한
+parcel,소포; 꾸러미
+pardon,용서; 사면
+parent,부모
+park,공원; 주차하다
+parking,주차
+parrot,앵무새
+part,부분; 역할; 분리하다
+partial,부분적인
+participant,참가자
+participate,참가하다
+participation,참여; 참가
+particle,입자; 작은 조각
+particular,특정한; 특별한
+particularly,특히
+partner,동료; 파트너
+partnership,동업; 협력 관계
+party,파티; 정당
+pass,통과하다; 합격하다; 패스하다
+passage,통로; 한 구절
+passenger,승객
+passion,열정
+passionate,열정적인
+passive,수동적인
+passport,여권
+past,과거; 지나간; ~을 지나서
+paste,풀; 반죽; 붙이다
+pat,가볍게 두드리다
+patch,조각; 덧대다; 패치
+path,길; 경로
+patience,인내; 참을성
+patient,환자; 인내심 있는
+patrol,순찰; 순찰하다
+pattern,무늬; 패턴; 양식
+pause,잠시 멈추다; 중단
+pavement,보도; 포장도로
+pave,포장하다
+pay,지불하다; 봉급
+payment,지불; 납입
+peace,평화; 평온
+peaceful,평화로운
+peak,정상; 절정
+pear,배(과일)
+pearl,진주
+peasant,농부; 소작농
+peel,껍질을 벗기다; 껍질
+peer,또래; 동료
+pen,펜; 우리(가축)
+penalty,처벌; 벌금; 패널티(스포츠)
+pencil,연필
+penetrate,관통하다; 꿰뚫다
+people,사람들; 국민
+per,~당; ~마다
+perceive,지각하다; 이해하다
+percent,퍼센트
+percentage,비율; 백분율
+perception,인식; 지각
+perfect,완벽한; 완전하게 하다
+perfection,완벽; 완전
+perform,수행하다; 공연하다
+performance,공연; 성과
+perfume,향수; 향기
+perhaps,아마도
+period,기간; 시대; 마침표
+permanent,영구적인
+permission,허락; 허가
+permit,허락하다; 허가증
+persist,지속하다; 고집하다
+person,사람
+personal,개인의; 사적인
+personality,성격; 개성
+personnel,직원; 인사과
+perspective,관점; 시각
+persuade,설득하다
+pet,애완동물; 귀여워하다
+petition,청원; 탄원서
+phase,단계; 국면
+phenomenon,현상
+philosophy,철학
+phone,전화; 전화하다
+photo,사진
+photograph,사진; 사진을 찍다
+photographer,사진작가
+photography,사진술
+phrase,구; 관용구
+physical,신체의; 물리적인
+physician,의사
+physics,물리학
+piano,피아노
+pick,고르다; 따다
+picnic,피크닉; 소풍
+picture,그림; 사진
+piece,조각; 한 부분
+pig,돼지
+pile,더미; 쌓다
+pill,알약
+pilot,조종사; 조종하다
+pin,핀; 고정시키다
+pinch,꼬집다; 집다
+pine,소나무; 갈망하다
+pink,분홍색
+pioneer,개척자; 선구자
+pipe,파이프; 관
+pitch,던지다; 음높이; 경기장
+pity,동정; 불쌍히 여기다
+place,장소; 위치시키다
+placement,배치; 위치 선정
+plain,분명한; 평범한; 평원
+plan,계획; 계획하다
+plane,비행기; 평면
+planet,행성
+plant,식물; 공장; 심다
+plastic,플라스틱; 가소성의
+plate,접시; 판
+platform,플랫폼; 연단
+play,놀다; 연극; 경기하다
+player,선수; 연주자
+playground,놀이터
+pleasant,즐거운; 상쾌한
+please,기쁘게 하다; 제발
+pleasure,즐거움; 기쁨
+plenty,풍부함; 충분한 양
+plot,음모; 줄거리; 계획하다
+plow (plough),쟁기; 갈다
+plug,플러그; 막다
+plunge,뛰어들다; 급락하다
+plus,더하기; 게다가
+pocket,주머니
+poem,시
+poet,시인
+poetry,시(문학)
+point,점; 요점; 가리키다
+poison,독; 독약; 중독시키다
+pole,막대; 기둥; 극(지리)
+police,경찰
+policy,정책; 방침
+polish,닦다; 광택내다; 폴란드어
+polite,예의 바른
+political,정치의
+politician,정치인
+politics,정치
+pollute,오염시키다
+pollution,오염
+pond,연못
+pool,수영장; 웅덩이
+poor,가난한; 부족한; 형편없는
+pop,팝(음악); 불시의; 터뜨리다
+popular,인기 있는
+population,인구
+porch,현관; 포치
+pork,돼지고기
+port,항구
+portable,휴대용의
+portion,부분; 1인분
+portrait,초상화
+position,위치; 자리; 지위
+positive,긍정적인; 확실한
+possess,소유하다
+possession,소유; 소지품
+possible,가능한
+possibly,아마; 어쩌면
+post,우편; 게시하다; 직책
+postcard,엽서
+poster,포스터
+pot,항아리; 냄비; 화분
+potato,감자
+potential,잠재력; 가능성
+pound,파운드(무게 단위); 세게 치다
+pour,붓다; 쏟다
+poverty,빈곤
+powder,가루; 분말
+power,힘; 권력; 전력
+powerful,강력한; 영향력 있는
+practical,실용적인; 실제적인
+practice,연습; 실천; 관습
+practise,연습하다(영국식)
+praise,칭찬하다; 찬양
+pray,기도하다
+prayer,기도; 기도문
+preach,설교하다; 전도하다
+precaution,예방책; 주의
+precede,앞서다; 선행하다
+precious,귀중한; 소중한
+precise,정확한; 정밀한
+precision,정확성; 정밀도
+predict,예측하다
+prediction,예측
+prefer,선호하다
+preference,선호; 기호
+pregnant,임신한
+prejudice,편견
+premise,전제; 건물 부지
+prepare,준비하다
+preparation,준비; 대비
+preposition,전치사
+prescribe,처방하다; 규정하다
+prescription,처방전
+presence,존재; 참석
+present,주다; 제시하다; 현재의; 선물
+presentation,발표; 제시
+preserve,보존하다; 보호하다
+president,대통령; 회장
+press,누르다; 언론; 인쇄기
+pressure,압력; 스트레스
+pretend,~인 척하다; 가장하다
+pretty,꽤; 예쁜
+prevail,우세하다; 만연하다
+prevent,막다; 예방하다
+previous,이전의; 앞의
+previously,이전에
+price,가격
+pride,자부심; 자존심
+priest,성직자; 신부
+primary,주요한; 초등의
+prime,최고의; 주요한
+primitive,원시의; 초기의
+prince,왕자
+princess,공주
+principal,교장; 주요한
+principle,원칙; 원리
+print,인쇄하다; 출판하다; 인쇄물
+printer,프린터
+priority,우선순위
+prison,감옥
+prisoner,죄수; 포로
+privacy,사생활; 개인 정보
+private,사적인; 개인의
+privilege,특권; 혜택
+prize,상; 상금
+probable,있을 법한; 개연성 있는
+probably,아마; 대개
+problem,문제; 과제
+procedure,절차; 과정
+proceed,나아가다; 진행하다
+process,과정; 처리하다
+produce,생산하다
+product,제품; 산출물
+production,생산; 제작
+profession,직업; 전문직
+professional,전문적인; 직업의
+professor,교수
+profile,프로필; 옆모습; 특징
+profit,이익; 수익
+program,프로그램; 계획
+progress,진전; 진행
+progressive,진보적인; 꾸준한
+prohibit,금지하다
+project,프로젝트; 계획
+promise,약속하다; 약속
+promote,촉진하다; 승진시키다
+promotion,승진; 홍보
+prompt,즉각적인; 자극하다
+pronounce,발음하다
+pronunciation,발음
+proof,증거; 입증
+proper,적절한; 올바른
+properly,제대로; 적절히
+property,재산; 소유물
+proportion,비율; 부분
+proposal,제안; 청혼
+propose,제안하다; 청혼하다
+prospect,전망; 가능성
+protect,보호하다
+protection,보호
+protest,항의하다; 항의
+proud,자랑스러운; 자만한
+prove,증명하다; 입증하다
+provide,제공하다; 공급하다
+province,지방; 주(행정 구역)
+provision,조항; 공급
+psychology,심리학
+pub,술집; 펍
+public,공공의; 대중
+publication,출판; 발표
+publish,출판하다; 발표하다
+pull,당기다
+pulse,맥박; 진동
+pump,펌프; 펌프로 퍼 올리다
+punch,주먹으로 치다; 펀치
+punish,처벌하다; 벌주다
+punishment,처벌
+pupil,학생; 눈동자
+puppy,강아지
+purchase,구입하다; 구매
+pure,순수한; 깨끗한
+purify,정화하다
+purple,보라색
+purpose,목적; 용도
+pursue,추구하다; 뒤쫓다
+push,밀다; 추진하다
+put,놓다; 두다
+puzzle,수수께끼; 퍼즐; 혼란스럽게 하다
+qualify,자격을 갖추다
+quality,품질; 특성
+quantity,양; 수량
+quarrel,다투다; 언쟁
+quarter,4분의 1; 분기
+queen,여왕
+queer,이상한; 기묘한
+question,질문; 의문; 질문하다
+questionnaire,설문지
+queue,줄; 줄을 서다
+quick,빠른; 신속한
+quickly,빨리; 신속하게
+quiet,조용한; 고요한
+quit,그만두다; 떠나다
+quite,꽤; 상당히; 완전히
+quotation,인용; 인용문
+quote,인용하다
+rabbit,토끼
+race,경주; 인종; 질주하다
+racial,인종의
+rack,선반; 받침대
+radar,레이더
+radiate,방출하다; 빛나다
+radiation,방사선; 복사
+radio,라디오
+radish,무
+rage,분노; 격렬함
+raid,습격; 급습
+rail,철도; 난간
+railroad,철도; 철길
+railway,철도(영국)
+rain,비; 비가 오다
+rainbow,무지개
+raise,올리다; 기르다; 임금 인상
+rally,집회; 규합하다
+range,범위; 다양성; 정렬시키다
+rank,등급; 지위; 줄서다
+rapid,빠른; 신속한
+rare,드문; 희귀한
+rarely,드물게; 거의 ~않다
+rate,비율; 요금; 평가하다
+rather,오히려; 차라리; 다소
+ratio,비율
+raw,날것의; 가공되지 않은
+reach,도달하다; 닿다
+react,반응하다
+reaction,반응; 반작용
+read,읽다
+reader,독자
+readily,쉽게; 기꺼이
+reading,독서; 읽기
+ready,준비된; 기꺼이 ~하는
+real,현실의; 진짜의
+reality,현실
+realize (realise),깨닫다; 실현하다
+really,정말; 실제로
+reason,이유; 추론하다
+reasonable,합리적인; 적당한
+rebel,반역자; 반란을 일으키다
+rebellion,반란; 저항
+recall,기억하다; 회상하다
+receipt,영수증
+receive,받다; 수신하다
+recent,최근의
+recently,최근에
+reception,환영; 접수; 수신
+recipe,요리법; 레시피
+recognize (recognise),인정하다; 알아보다
+recommend,추천하다
+record,기록하다; 음반; 기록
+recording,녹음; 녹취
+recover,회복하다; 되찾다
+recovery,회복
+recruit,모집하다; 채용하다
+rectangle,직사각형
+recycle,재활용하다
+red,빨간
+reduce,줄이다; 감소시키다
+reduction,감소; 축소
+refer,언급하다; 참조하다
+reference,참고; 언급; 참고문헌
+reflect,반사하다; 숙고하다
+reflection,반사; 숙고
+reform,개혁하다; 개선하다
+refrigerator,냉장고
+refuse,거절하다; 쓰레기(명사)
+regard,여기다; 고려하다; 존경
+regarding,~에 관하여
+region,지역; 지방
+regional,지역의
+register,등록하다; 기록하다; 금전등록기
+registration,등록
+regret,후회하다; 유감
+regular,정기적인; 규칙적인
+regulate,규제하다; 조절하다
+regulation,규정; 조절
+reinforce,강화하다
+reject,거부하다; 거절하다
+relate,관련시키다; 이야기하다
+relation,관계; 친척
+relationship,관계; 연관성
+relative,친척; 상대적인
+relatively,비교적; 상대적으로
+relax,쉬다; 긴장을 풀다
+release,발표하다; 방출하다; 석방하다
+reliable,믿을 수 있는
+relief,안도; 구호; 경감
+religion,종교
+religious,종교적인
+reluctant,내키지 않는; 꺼리는
+rely,의존하다; 신뢰하다
+remain,남다; 유지되다
+remark,언급하다; 발언
+remarkable,주목할 만한
+remedy,치료; 해결책; 고치다
+remember,기억하다
+remind,상기시키다
+remote,외진; 원격의
+remove,제거하다; 치우다
+rent,임대하다; 집세; 임차료
+repair,수리하다; 고치다
+repeat,반복하다
+replace,대체하다; 교체하다
+reply,대답하다; 답장
+report,보고하다; 보고서
+reporter,기자
+represent,대표하다; 나타내다
+representation,표현; 대표
+representative,대표자; 대리인
+reproduce,재생하다; 번식하다
+republic,공화국
+reputation,평판; 명성
+request,요청하다; 요청
+require,필요로 하다; 요구하다
+requirement,요구 조건; 필요 조건
+rescue,구하다; 구조하다
+research,연구; 조사
+researcher,연구자
+resemble,닮다; 유사하다
+reservation,예약; 의구심
+reserve,예약하다; 보유하다
+resident,거주자; 주민
+resign,사임하다; 물러나다
+resignation,사임; 체념
+resist,저항하다; 참다
+resistance,저항; 반대
+resolution,결의; 해결; 해상도
+resolve,해결하다; 결심하다
+resort,리조트; 의존하다
+resource,자원; 자산
+respect,존중하다; 존경; 면
+respectful,공손한; 존경심을 보이는
+respond,응답하다; 대응하다
+response,응답; 반응
+responsibility,책임
+responsible,책임 있는
+rest,휴식; 나머지; 쉬다
+restaurant,식당; 레스토랑
+restore,복원하다; 회복시키다
+restrict,제한하다; 금지하다
+restriction,제한; 규제
+result,결과; 결실; 초래하다
+resume,이력서; 다시 시작하다
+retain,유지하다; 보유하다
+retire,은퇴하다
+retirement,은퇴
+retreat,후퇴하다; 퇴각하다
+return,돌아오다; 반납하다; 수익
+reveal,드러내다; 밝히다
+revenge,복수; 설욕
+reverse,뒤집다; 반대의
+review,검토하다; 평가하다; 리뷰
+revise,수정하다; 개정하다
+revision,개정판; 정정
+revive,되살리다; 회복시키다
+revolution,혁명; 대변혁
+reward,보상; 보답
+rhythm,리듬; 박자
+rib,갈비뼈
+ribbon,리본
+rice,쌀; 밥
+rich,부유한; 풍부한
+rid,없애다; 제거하다
+ride,타다; 태워주다
+rider,타는 사람; 승객
+ridiculous,우스운; 터무니없는
+right,오른쪽; 권리; 맞는
+rigid,단단한; 엄격한
+ring,반지; 울리다
+riot,폭동; 소요
+ripe,익은; 성숙한
+ripen,익다; 익히다
+rise,오르다; 상승; 일어나다
+risk,위험; 모험
+rival,경쟁자; 라이벌
+river,강
+road,도로; 길
+roar,포효하다; 울부짖다
+roast,굽다; 로스트
+rob,강도짓하다; 빼앗다
+robber,강도
+robbery,강도질
+robot,로봇
+rock,바위; 흔들다
+rocket,로켓
+rod,막대; 봉
+role,역할
+roll,구르다; 말다; 명단
+roof,지붕
+room,방; 공간
+root,뿌리; 근원
+rope,밧줄
+rose,장미
+rotate,회전하다
+rotation,회전
+rough,거친; 대략적인
+round,둥근; 라운드; 둘레
+route,길; 경로
+routine,일상; 반복적인 일
+row,열; 줄; 노를 젓다
+royal,왕실의
+rub,문지르다
+rubber,고무
+rubbish,쓰레기(영국)
+rude,무례한; 버릇없는
+rug,깔개; 담요
+rule,규칙; 지배하다
+ruler,자(도구); 통치자
+rumor (rumour),소문
+run,달리다; 운영하다
+runner,주자; 러너
+rural,시골의; 지방의
+rush,서두르다; 돌진하다
+rust,녹; 녹슬다
+sack,부대; 자루; 해고하다
+sacred,신성한; 성스러운
+sacrifice,희생; 희생하다
+sad,슬픈
+saddle,안장; 안장을 얹다
+safe,안전한; 금고
+safety,안전
+sail,항해하다; 돛
+sailor,선원
+saint,성인; 성자
+salary,급여; 봉급
+sale,판매
+salmon,연어
+salt,소금
+salty,짠
+salute,경례하다; 경례
+same,같은; 동일한
+sample,표본; 샘플
+sanction,제재; 허가
+sand,모래
+satisfaction,만족
+satisfactory,만족스러운
+satisfy,만족시키다
+saturated,포화된; 흠뻑 젖은
+Saturday,토요일
+sauce,소스; 양념
+sausage,소시지
+save,구하다; 저장하다; 절약하다
+saving,절약; 저축
+saw,톱; 톱질하다; see의 과거
+say,말하다
+scale,규모; 저울; 비늘
+scan,스캔하다; 훑어보다
+scandal,스캔들
+scar,흉터; 상처
+scare,놀라게 하다; 겁
+scared,무서운; 겁먹은
+scarf,스카프
+scatter,흩뿌리다; 퍼뜨리다
+scene,장면; 현장
+scenery,풍경; 경치
+schedule,일정; 시간표
+scheme,계획; 제도; 음모
+scholar,학자
+scholarship,장학금; 학식
+school,학교
+science,과학
+scientific,과학의; 과학적인
+scientist,과학자
+scissors,가위
+scold,꾸짖다; 야단치다
+scope,범위; 영역
+score,점수; 득점하다
+scratch,긁다; 긁힌 자국
+scream,비명; 비명을 지르다
+screen,화면; 상영하다
+screw,나사; 나사를 조이다
+sea,바다
+seal,봉인하다; 물개; 도장
+search,찾다; 수색하다
+season,계절; 양념하다
+seat,좌석; 앉히다
+second,두 번째; 초(시간)
+secondary,부차적인; 중등의
+secret,비밀; 비밀의
+secretary,비서
+section,부분; 구획
+sector,부문; 분야
+secure,확보하다; 안전한
+security,보안; 안전
+see,보다; 이해하다
+seed,씨앗
+seek,찾다; 구하다
+seem,~처럼 보이다
+seize,붙잡다; 장악하다
+seldom,거의 ~않다
+select,선택하다
+selection,선택; 선정
+self,자신; 자아
+selfish,이기적인
+sell,팔다
+seminar,세미나
+senior,손윗사람; 상급자; 고령자
+sense,감각; 느낌; 의미
+sensible,분별 있는; 합리적인
+sensitive,민감한; 예민한
+sentence,문장; 판결
+separate,분리하다; 분리된
+separation,분리; 이별
+September,9월
+sequence,순서; 연속
+series,연속; 시리즈
+serious,심각한; 진지한
+serve,봉사하다; 제공하다; 서빙하다
+service,서비스; 봉사; 근무
+session,회기; 기간; 수업
+set,놓다; 설정하다; 세트
+settle,정착하다; 해결하다
+settlement,해결; 합의; 정착
+seven,일곱
+seventeen,열일곱
+seventh,일곱 번째
+seventy,일흔
+several,여러; 몇몇의
+severe,심각한; 가혹한
+sew,바느질하다
+shade,그늘; 색조; 가리다
+shadow,그림자
+shake,흔들다; 흔들리다
+shall,~할 것이다; ~해야 한다
+shallow,얕은
+shame,수치; 창피
+shape,모양; 형태
+share,공유하다; 나누다
+sharp,날카로운; 급격한
+shave,면도하다
+she,그녀는; 그녀가
+shear,깎다; 베다
+shed,흘리다; 벗다; 창고
+sheep,양
+sheet,시트; 한 장
+shelf,선반
+shell,껍데기; 포탄
+shelter,피난처; 보호하다
+shift,이동하다; 변화; 교대
+shine,빛나다; 반짝이다
+ship,배; 선박; 배송하다
+shirt,셔츠
+shock,충격; 놀라게 하다
+shoe,신발
+shoot,쏘다; 촬영하다
+shop,가게; 쇼핑하다
+shopping,쇼핑
+shore,해안; 물가
+short,짧은; 부족한
+shortage,부족; 결핍
+shortly,곧; 얼마 안 있어
+shot,발사; 사진; 숏(영상 단위)
+should,~해야 한다; ~일 것이다
+shoulder,어깨
+shout,외치다; 소리 지르다
+show,보여주다; 쇼; 전시
+shower,샤워; 소나기
+shrink,줄어들다; 수축하다
+shut,닫다; 닫힌
+shy,수줍은
+sick,아픈; 병든
+side,쪽; 측면
+sigh,한숨; 한숨 쉬다
+sight,시력; 광경
+sign,표지판; 신호; 서명하다
+signal,신호
+signature,서명; 사인
+significant,중요한; 의미 있는
+silence,침묵; 고요
+silent,조용한; 침묵하는
+silk,비단; 실크
+silly,어리석은
+silver,은; 은색
+similar,비슷한
+simple,간단한; 소박한
+simply,단순히; 그저
+sin,죄; 죄를 짓다
+since,~이래로; ~때문에
+sing,노래하다
+singer,가수
+single,하나의; 단일의; 독신의
+sink,가라앉다; 싱크대
+sir,선생님; ~님
+sister,자매; 여자 형제
+sit,앉다
+site,장소; 현장; 사이트
+situation,상황; 처지
+six,여섯
+sixteen,열여섯
+sixty,예순
+size,크기; 사이즈
+skate,스케이트를 타다
+sketch,스케치; 밑그림
+ski,스키; 스키를 타다
+skill,기술; 능력
+skilled,숙련된; 능숙한
+skim,훑다; 스치다
+skin,피부
+skip,건너뛰다; 생략하다
+skirt,스커트; 치마
+sky,하늘
+slam,쾅 닫다; 세게 던지다
+slap,찰싹 때리다; 철썩 부딪힘
+slave,노예
+slavery,노예제도
+sleep,잠자다; 잠
+sleeve,소매
+slice,조각; 얇게 썰다
+slide,미끄러지다; 슬라이드
+slight,약간의; 가벼운
+slim,날씬한; 호리호리한
+slip,미끄러지다; 실수; 쪽지
+slogan,슬로건; 구호
+slope,경사; 비탈
+slot,구멍; 자리; 슬롯
+slow,느린; 늦추다
+slowly,천천히
+small,작은
+smart,영리한; 스마트한
+smell,냄새; 냄새 맡다
+smile,미소; 웃다
+smoke,연기; 담배를 피우다
+smooth,부드러운; 매끄러운
+snack,간식
+snake,뱀
+snap,딱 부러뜨리다; 덥석 물다
+sneeze,재채기하다
+snow,눈; 눈이 오다
+so,그래서; 매우
+soap,비누
+soccer,축구
+social,사회적인
+society,사회; 단체
+sock,양말
+soft,부드러운; 연한
+software,소프트웨어
+soil,흙; 토양
+solar,태양의
+soldier,군인
+sole,유일한; 발바닥
+solid,고체; 단단한
+solution,해결책
+solve,해결하다
+some,어떤; 약간
+somebody,누군가
+somehow,어떻게든; 왜인지
+someone,누군가
+something,어떤 것; 무언가
+sometimes,가끔
+somewhat,어느 정도
+somewhere,어딘가에
+son,아들
+song,노래
+soon,곧
+sore,아픈; 쓰린
+sorry,미안한; 유감스러운
+sort,종류; 분류하다
+soul,영혼; 정신
+sound,소리; 들리다
+soup,수프
+source,원천; 출처
+south,남쪽
+southern,남쪽의; 남부의
+space,공간; 우주
+spacious,넓은
+spade,삽
+span,기간; 폭
+spare,여분의; 할애하다
+spark,불꽃; 불러일으키다
+speak,말하다
+speaker,연설가; 스피커
+special,특별한
+specialist,전문가
+species,종; 종류
+specific,구체적인; 특정한
+specify,명시하다
+spectacle,광경; 장관
+spectator,관중
+speech,연설; 말하기
+speed,속도; 빨리 가다
+spell,철자하다; 주문; 기간
+spend,쓰다; 소비하다
+sphere,구; 영역
+spill,엎지르다; 유출
+spin,돌리다; 회전하다
+spirit,정신; 영혼
+spiritual,정신의; 영적인
+spit,침을 뱉다
+splendid,훌륭한; 멋진
+split,쪼개다; 나누다
+spoil,망치다; 버릇없이 만들다
+sponsor,스폰서; 후원하다
+spoon,숟가락
+sport,스포츠; 운동
+spot,장소; 점; 발견하다
+spread,퍼지다; 펼치다
+spring,봄; 샘; 용수철
+spray,뿌리다; 스프레이
+spreadsheet,스프레드시트
+springtime,봄철
+square,정사각형; 광장
+squeeze,짜다; 꽉 쥐다
+stable,안정된; 마구간
+stack,더미; 쌓다
+staff,직원; 사원
+stage,단계; 무대
+stain,얼룩; 얼룩지게 하다
+stairs,계단
+stake,말뚝; 지분
+stamp,우표; 도장
+stand,서다; 참다; 스탠드
+standard,표준; 기준
+star,별; 스타
+stare,응시하다
+start,시작하다
+starve,굶주리다
+state,상태; 주(USA)
+statement,진술; 성명
+station,역; 정거장; 방송국
+statistics,통계
+statue,조각상
+status,지위; 상태
+stay,머무르다
+steadily,꾸준히
+steady,꾸준한; 안정된
+steal,훔치다
+steam,증기; 김
+steel,강철
+steep,가파른
+steer,조종하다
+stem,줄기; 유래하다
+step,걸음; 단계; 밟다
+stick,막대기; 붙이다
+sticky,끈적거리는
+stiff,뻣뻣한; 경직된
+still,여전히; 고요한
+stimulate,자극하다; 격려하다
+sting,찌르다; 쏘다; 따가움
+stir,휘젓다; 자극하다
+stock,재고; 주식
+stomach,위; 배
+stone,돌; 비석
+stool,의자; 스툴
+stop,멈추다; 정류장
+store,가게; 저장하다
+storm,폭풍
+story,이야기
+stove,난로; 스토브
+straight,똑바로; 솔직한
+strain,부담; 압박; 긴장
+strange,이상한; 낯선
+stranger,낯선 사람
+strategy,전략
+straw,짚; 빨대
+strawberry,딸기
+stream,개울; 흐름; 스트리밍
+street,거리
+strength,힘; 강점
+stress,스트레스; 강조하다
+stretch,뻗다; 늘이다
+strict,엄격한
+strike,때리다; 파업
+string,끈; 줄; 문자열
+strip,벗기다; 옷을 벗다; 띠
+stripe,줄무늬
+stroke,타격; 발작; 쓰다듬기
+strong,강한
+strongly,강하게; 굳게
+structure,구조; 건축물
+struggle,투쟁하다; 애쓰다
+student,학생
+studio,스튜디오
+study,공부하다; 연구하다
+stuff,물건; 채워 넣다
+stupid,어리석은
+style,스타일; 방식
+subject,과목; 주제; 대상
+submit,제출하다; 복종하다
+substance,물질; 본질
+substantial,상당한; 실질적인
+substitute,대신하다; 대체물
+subtract,빼다; 공제하다
+suburb,교외; 근교
+subway,지하철
+succeed,성공하다
+success,성공
+successful,성공적인
+successor,후임자; 계승자
+such,그러한; 매우
+sudden,갑작스러운
+suffer,고통받다; 겪다
+sufficient,충분한
+sugar,설탕
+suggest,제안하다; 암시하다
+suggestion,제안; 암시
+suit,정장; 어울리다; 소송
+suitable,적합한
+sum,합계; 요약하다
+summarize,요약하다
+summary,요약
+summer,여름
+sun,태양
+sunlight,햇빛
+sunny,맑은; 햇볕이 좋은
+sunrise,일출
+sunset,일몰
+super,최고의; 매우 뛰어난
+superb,훌륭한; 최고의
+superior,우수한; 상급자
+supermarket,슈퍼마켓
+supply,공급하다; 공급
+support,지지하다; 지원
+supporter,지지자; 후원자
+suppose,가정하다; 추측하다
+sure,확실한; 물론
+surely,확실히; 틀림없이
+surface,표면; 외관
+surge,급증하다; 치솟다
+surgeon,외과 의사
+surgery,수술
+surprise,놀라게 하다; 놀람
+surprising,놀라운
+surround,둘러싸다
+surroundings,주변 환경
+survey,조사; 설문
+survival,생존
+survive,살아남다
+suspect,의심하다; 용의자
+suspend,중단하다; 매달다
+suspicion,의심; 혐의
+sustain,유지하다; 지속시키다
+swallow,삼키다; 제비(새)
+swear,맹세하다; 욕하다
+sweat,땀; 땀흘리다
+sweep,쓸다; 청소하다
+sweet,달콤한; 상냥한
+swell,부풀다; 붓다
+swim,수영하다
+swimmer,수영선수; 수영하는 사람
+swing,휘두르다; 그네; 흔들다
+switch,전환하다; 스위치
+sword,칼; 검
+symbol,상징; 기호
+sympathy,동정; 공감
+symptom,증상; 징후
+system,시스템; 체계
+table,탁자; 표
+tablet,태블릿; 정제(알약)
+tackle,다루다; 태클하다
+tail,꼬리; 뒤따르다
+take,가져가다; 잡다; 받다
+tale,이야기; 전설
+talent,재능; 재주
+talk,말하다; 이야기
+tall,키 큰
+tank,탱크; 수조
+tap,가볍게 두드리다; 수도꼭지
+tape,테이프; 녹음하다
+target,목표; 표적
+task,과제; 일
+taste,맛; 맛보다
+tasty,맛있는
+tattoo,문신
+tax,세금
+taxi,택시
+tea,차(음료)
+teach,가르치다
+teacher,선생님; 교사
+teaching,교육; 가르침
+team,팀; 조
+tear,눈물; 찢다
+technical,기술적인
+technique,기법; 기술
+technology,기술; 테크놀로지
+teen,십대
+teenager,십대 청소년
+telephone,전화
+telescope,망원경
+television,텔레비전
+tell,말하다; 알려주다
+temperature,온도; 기온
+temple,사원; 절; 관자놀이
+temporary,임시의
+ten,열
+tend,~하는 경향이 있다; 돌보다
+tender,부드러운; 상냥한
+tennis,테니스
+tense,긴장한; 시제(문법)
+tension,긴장; 압력
+tent,텐트
+term,기간; 용어; 조건
+terminal,터미널; 말기의
+terrible,끔찍한; 형편없는
+terrific,아주 멋진; 훌륭한
+territory,영토; 영역
+terror,공포; 테러
+test,시험; 검사하다
+text,글; 문자 메시지
+textbook,교과서
+than,~보다
+thank,감사하다
+thanks,감사; 고마움
+that,저것; 그것; ~하는
+the,그
+theater (theatre),극장; 연극
+their,그들의
+them,그들을; 그들에게
+theme,주제; 테마
+themselves,그들 자신
+then,그때; 그러고 나서
+theory,이론
+there,거기; 그곳
+therefore,그러므로
+thermometer,온도계
+these,이것들
+they,그들은
+thick,두꺼운; 진한
+thief,도둑
+thin,얇은; 마른
+thing,것; 물건
+think,생각하다
+third,세 번째
+thirst,갈증
+this,이것; 이
+thorn,가시
+thorough,철저한; 완전한
+those,저것들; 그것들
+though,비록 ~일지라도; 그러나
+thought,생각; 사고
+thousand,천
+thread,실; 실타래; 스레드
+threat,위협; 협박
+threaten,위협하다
+three,셋
+throat,목; 인후
+through,~을 통하여; 끝까지
+throughout,도처에; ~동안 내내
+throw,던지다
+thumb,엄지손가락
+thunder,천둥
+Thursday,목요일
+thus,따라서; 그러므로
+ticket,표; 티켓
+tide,조수; 흐름
+tie,묶다; 넥타이; 동점
+tiger,호랑이
+tight,꽉 끼는; 단단한
+till,~까지; 경작하다
+time,시간; 때; 시기
+timber,목재
+tiny,작고 귀여운; 아주 작은
+tip,조언; 끝부분; 팁
+tire,지치게 하다; 타이어
+tired,피곤한
+tissue,조직; 휴지
+title,제목; 칭호
+to,~로; ~에게
+toast,건배; 토스트
+tobacco,담배; 담배잎
+today,오늘
+toe,발가락
+together,함께
+toilet,화장실
+tolerance,관용; 참을성
+tolerate,참다; 용인하다
+tomato,토마토
+tomorrow,내일
+tone,어조; 음색
+tongue,혀; 언어
+tonight,오늘 밤
+too,너무; 또한
+tool,도구; 공구
+tooth,이; 치아
+top,맨 위; 정상
+topic,주제
+torch,횃불; 손전등
+total,전체의; 총합
+touch,만지다; 접촉
+tough,튼튼한; 힘든
+tour,여행; 관광하다
+tourism,관광
+tourist,관광객
+tournament,토너먼트; 경기 대회
+toward (towards),~쪽으로
+tower,탑; 높이 솟다
+town,도시; 읍
+toxic,독성의; 유해한
+toy,장난감
+trace,흔적; 추적하다
+track,길; 트랙; 기록하다
+tractor,트랙터
+trade,무역; 거래하다
+tradition,전통
+traditional,전통적인
+traffic,교통; 통행
+tragedy,비극
+trail,자국; 오솔길; 끌다
+train,기차; 훈련하다
+trainer,트레이너; 조련사
+training,훈련; 교육
+trait,특성; 특징
+transaction,거래; 처리
+transfer,옮기다; 전송하다
+transform,변형시키다; 바꾸다
+transformation,변화; 변신
+translate,번역하다
+translation,번역
+transmit,전달하다; 송신하다
+transport,운송하다; 수송
+transportation,교통; 운송
+trap,덫; 함정; 가두다
+travel,여행하다; 이동하다
+traveler (traveller),여행자
+tray,쟁반; 트레이
+treasure,보물; 소중히 여기다
+treat,대하다; 취급하다; 대접하다
+treatment,치료; 대우
+tree,나무
+tremble,떨다; 전율하다
+trend,추세; 경향
+trial,재판; 시도
+triangle,삼각형
+tribe,부족; 종족
+trick,속임수; 기술
+trigger,방아쇠; 유발하다
+trim,다듬다; 장식하다
+trip,여행; 걸려 넘어지다
+triumph,승리; 대성공
+troop,군대; 무리
+tropical,열대의
+trouble,문제; 곤란; 괴롭히다
+truck,트럭
+true,진짜의; 참된
+trust,신뢰; 믿다
+truth,진실
+try,시도하다
+tub,통; 욕조
+tube,관; 튜브
+tune,곡; 조율하다
+tunnel,터널
+turn,돌다; 바꾸다; 차례
+turning,회전; 전환점
+tutor,가정교사; 지도교사
+twenty,스무
+twice,두 번; 두 배로
+twin,쌍둥이
+twist,비틀다; 꼬다
+two,둘
+type,유형; 종류; 타이프 치다
+typical,전형적인; 일반적인
+ugly,못생긴; 추한
+ultimate,궁극적인; 최후의
+umbrella,우산
+unable,~할 수 없는
+uncertain,불확실한; 확신이 없는
+uncle,삼촌; 외삼촌
+under,~아래에; 부족한
+undergo,겪다; 경험하다
+undergraduate,학부생
+underground,지하의; 지하철
+underline,밑줄을 긋다
+understand,이해하다
+understanding,이해; 합의
+undertake,떠맡다; 착수하다
+undo,되돌리다
+unexpected,예상치 못한
+unfair,불공평한
+unfortunate,불운한; 유감스러운
+unhappy,불행한; 기분 나쁜
+uniform,제복; 균일한
+union,노동조합; 연합
+unique,독특한; 유일한
+unit,단위; 구성 단위
+unite,통합하다; 결합하다
+unity,통일; 조화
+universal,보편적인; 전 세계의
+universe,우주
+university,대학교
+unknown,알려지지 않은; 미지의
+unless,~하지 않는 한
+unlike,~와 달리; 같지 않은
+unlikely,있을 법하지 않은
+unlock,잠금을 해제하다
+until,~할 때까지
+unusual,이례적인; 드문
+up,위로; 증가하여
+update,업데이트하다; 갱신하다
+upgrade,향상시키다; 등급을 올리다
+uphill,오르막; 힘든
+upon,~위에; ~하자마자
+upper,위쪽의; 상부의
+upset,화난; 뒤집다; 당황하게 하다
+upstairs,위층에; 위층으로
+urban,도시의
+urge,촉구하다; 강한 욕구
+urgent,긴급한; 시급한
+us,우리
+use,사용하다; 용도
+used,익숙한(to); 중고의
+useful,유용한
+useless,쓸모없는
+user,사용자
+usual,보통의; 평상시의
+usually,보통; 대개
+utility,유용성; 공공요금
+vacation,휴가
+vague,모호한; 애매한
+valley,계곡; 골짜기
+valuable,가치 있는; 귀중한
+value,가치; 평가하다
+van,승합차; 밴
+vanish,사라지다; 소멸하다
+vapor (vapour),증기; 수증기
+variety,다양성; 여러 가지
+various,다양한
+vary,달라지다; 변화하다
+vast,광대한; 거대한
+vegetable,채소; 야채
+vehicle,차량; 운송 수단
+veil,면사포; 베일; 가리다
+vein,정맥; 혈관
+velocity,속도; 속력
+velvet,벨벳
+venture,모험; 도전; 벤처 사업
+verb,동사
+version,버전; 판
+vertical,수직의
+very,매우; 정말
+vessel,선박; 그릇; 혈관
+veteran,베테랑; 참전 군인
+victim,희생자
+victory,승리
+video,비디오; 영상
+view,견해; 풍경; 보다
+viewer,시청자
+village,마을
+vine,덩굴; 포도나무
+violence,폭력
+violent,폭력적인; 격렬한
+violet,보라색; 제비꽃
+violin,바이올린
+virtual,가상의; 사실상의
+virtue,미덕; 장점
+virus,바이러스
+visible,보이는; 명백한
+vision,시야; 비전
+visit,방문하다; 방문
+visitor,방문객; 손님
+visual,시각의; 시각적인
+vital,매우 중요한; 필수적인
+vitamin,비타민
+vivid,생생한; 선명한
+vocabulary,어휘; 단어 목록
+voice,목소리; 의견
+volume,양; 음량; 권(책)
+voluntary,자발적인
+volunteer,자원봉사자; 자원하다
+vote,투표하다; 표
+vowel,모음
+voyage,항해; 여행
+wage,임금; 급료
+wagon,짐마차; 왜건
+waist,허리
+wait,기다리다
+waiter,웨이터
+wake,깨다; 깨우다
+walk,걷다; 산책
+wall,벽
+wallet,지갑
+wander,배회하다; 돌아다니다
+want,원하다
+war,전쟁
+warm,따뜻한
+warmth,따뜻함
+warn,경고하다
+warning,경고
+wash,씻다; 세탁하다
+waste,낭비하다; 쓰레기
+watch,보다; 지켜보다; 시계
+water,물; 물을 주다
+waterfall,폭포
+wave,파도; 손짓하다
+wax,밀랍; 왁스; 왁스를 바르다
+way,방법; 길
+we,우리
+weak,약한
+weakness,약점; 결점
+wealth,부; 재산
+weapon,무기
+wear,입다; 닳다
+weather,날씨
+weave,짜다; 엮다
+web,거미줄; 웹
+wedding,결혼식
+Wednesday,수요일
+weed,잡초; 잡초를 뽑다
+week,주(週)
+weekday,평일
+weekend,주말
+weep,울다
+weight,무게; 체중
+weird,이상한; 기이한
+welcome,환영하다; 환영
+welfare,복지; 행복
+well,잘; 건강한; 우물
+west,서쪽
+western,서부의; 서양식의
+wet,젖은; 습한
+whale,고래
+what,무엇; 어떤
+whatever,무엇이든; 어떤 것이든
+wheat,밀
+wheel,바퀴; 핸들
+when,언제; ~할 때
+whenever,언제든지
+where,어디에
+whereas,반면에
+wherever,어디든지
+whether,~인지 아닌지
+which,어느; 어떤
+while,동안; ~하는 동안
+whisper,속삭이다; 속삭임
+whistle,휘파람; 호각
+white,흰색; 하얀
+who,누구
+whole,전체의; 온전한
+whom,누구를
+whose,누구의
+why,왜
+wicked,사악한; 못된
+wide,넓은
+widely,널리
+widen,넓히다
+width,너비; 폭
+wife,아내
+wild,야생의; 거친
+will,~할 것이다; 의지; 유언
+willing,기꺼이 하는; 자발적인
+win,이기다; 얻다
+wind,바람; 감다(wind-wound-wound)
+window,창문
+wine,포도주; 와인
+wing,날개
+winner,승리자; 수상자
+winter,겨울
+wipe,닦다; 훔치다
+wire,철사; 전선
+wisdom,지혜
+wise,현명한
+wish,바라다; 소원
+wit,재치; 재담
+with,~와 함께
+within,~안에; ~이내에
+without,~없이
+witness,증인; 목격하다
+wolf,늑대
+woman,여자
+wonder,궁금해하다; 경탄하다
+wonderful,멋진; 훌륭한
+wood,나무; 목재; 숲
+wooden,나무로 만든
+wool,양털; 털실
+word,단어; 말
+work,일하다; 작업
+worker,노동자; 일하는 사람
+workshop,작업장; 워크숍
+world,세계; 세상
+worldwide,전 세계적인
+worm,벌레; 지렁이
+worry,걱정하다; 걱정
+worse,더 나쁜
+worship,예배하다; 숭배하다
+worst,최악의
+worth,가치가 있는; ~할 만한
+worthy,가치 있는; 훌륭한
+wound,상처; 부상; 상처 입히다
+wrap,싸다; 포장하다
+wreck,난파; 파괴하다
+wrist,손목
+write,쓰다
+writer,작가
+writing,글쓰기; 글
+wrong,잘못된; 틀린
+yard,마당; 거리 단위(야드)
+yawn,하품하다; 하품
+year,년; 해
+yearly,해마다; 매년의
+yell,소리치다; 고함치다
+yellow,노란색; 노란
+yes,예; 네
+yesterday,어제
+yet,아직; 그러나
+yield,산출하다; 양보하다
+young,어린; 젊은
+youth,청년; 젊음
+zero,영; 0
+zebra,얼룩말
+zone,구역; 지역
+zoo,동물원
+zoom,확대하다; 급속히 움직이다
+abolish,폐지하다; 없애다
+absorb,흡수하다; 받아들이다
+abstract,추상적인; 초록(논문 요약)
+absurd,터무니없는; 불합리한
+abundant,풍부한
+academy,학원; 학술기관
+accelerate,가속하다
+accent,억양; 악센트
+acceptable,받아들일 수 있는
+acceptance,수락; 인정
+accessible,접근 가능한
+accidental,우연한
+accommodate,수용하다; 숙박시키다
+accompany,동반하다; 함께하다
+accomplish,성취하다; 완수하다
+accord,일치하다; 합의
+accountant,회계사
+accumulate,축적하다; 모으다
+accuracy,정확성
+accurate,정확한
+accuse,비난하다; 고발하다
+acid,산(화학); 신맛의
+acknowledge,인정하다; 감사를 표하다
+acquire,획득하다; 배우다
+acre,에이커(면적 단위)
+activate,작동시키다; 활성화하다
+actual,실제의
+acute,예리한; 급성의
+adaptation,적응; 개조
+addiction,중독
+addictive,중독성 있는
+adequate,충분한; 적절한
+adhere,고수하다; 들러붙다
+adjacent,인접한
+adjustment,조정; 적응
+administer,관리하다; 집행하다
+admiration,감탄; 존경
+admission,입장; 입학; 인정
+adolescent,청소년
+adoption,입양; 채택
+adore,사랑하다; 숭배하다
+advent,도래; 출현
+adverse,부정적인; 불리한
+advocate,옹호하다; 지지자
+aerobic,유산소의
+aesthetic,미학의; 심미적인
+affection,애정; 호의
+affirm,단언하다; 확인하다
+afford,감당하다; ~할 여유가 있다
+agenda,안건; 의제
+aggression,공격; 공격성
+aggressive,공격적인; 적극적인
+agony,고통; 괴로움
+agricultural,농업의
+aid,도움; 지원하다
+ailment,질병; 불쾌
+alert,경계하는; 경고하다; 경보
+alien,외계인; 이방인; 이질적인
+align,정렬하다; 일직선으로 맞추다
+alike,비슷한; 서로 같은
+allegation,혐의; 주장
+allege,주장하다; 단언하다
+allocate,할당하다; 배분하다
+allowance,용돈; 수당; 허용량
+ally,동맹국; 협력자; 동맹하다
+alteration,변경; 수정
+alternate,번갈아 하다; 대체하는
+altitude,고도; 높이
+aluminium (aluminum),알루미늄
+amateur,아마추어; 비전문가
+amend,수정하다; 고치다
+amendment,수정; 개정
+amid,~의 한가운데에; ~속에서
+amuse,즐겁게 하다
+analogy,유사; 비유
+analyse (analyze),분석하다
+ancestor,조상
+anchor,닻; 고정시키다; 앵커
+angel,천사
+angle,각도; 관점
+animation,애니메이션; 생기
+ankle,발목
+anniversary,기념일
+anonymous,익명의
+anticipate,예상하다; 기대하다
+anxiety,불안; 걱정
+anxious,걱정하는; 열망하는
+apology,사과
+apparatus,기구; 장치
+appeal,호소하다; 매력
+appetite,식욕; 욕구
+applaud,박수 치다
+applicable,적용 가능한
+appoint,임명하다; 지정하다
+appointment,약속; 임명
+appreciate,감사하다; 감상하다
+approach,접근하다; 접근 방식
+appropriate,적절한; 도용하다
+approval,승인; 찬성
+apt,적절한; ~하기 쉬운
+arc,호; 아치형
+arch,아치; 궁전
+architectural,건축의
+archive,기록 보관소; 아카이브
+arena,경기장; 무대
+armor (armour),갑옷; 방어구
+aroma,향기; 향내
+array,배열; 진열
+arrogant,오만한; 거만한
+arsenal,무기고; 축적
+artery,동맥
+articulate,분명히 표현하다; 명확한
+artifact (artefact),유물; 인공물
+artificial,인공의
+artillery,대포; 포병
+asleep,잠든
+aspect,측면; 양상
+aspire,열망하다; 바라다
+assembly,조립; 집회
+assert,주장하다; 단언하다
+assessment,평가
+asset,자산
+assign,할당하다; 배정하다
+assist,돕다; 지원하다
+assistant,조수; 보조자
+associate,연관짓다; 동료
+association,협회; 연관성
+assurance,보증; 확신
+astonish,놀라게 하다
+astonishing,놀라운
+astounding,엄청난; 깜짝 놀랄
+athletic,운동의; 체육의
+atlas,지도책; 아틀라스
+atom,원자
+atomic,원자의; 핵의
+attachment,부착물; 애착
+attain,달성하다; 획득하다
+attempt,시도하다; 시도
+attendance,출석; 참석
+attention,주의; 관심
+attentive,주의 깊은; 세심한
+attitude,태도; 자세
+attorney,변호사
+auction,경매
+audit,감사; 심사하다
+auditor,감사관; 심사위원
+augment,증가시키다; 확장하다
+authentic,진짜의; 진품의
+authorize,허가하다; 승인하다
+autograph,사인이 적힌 것; 사인하다
+autonomy,자치; 자율성
+availability,이용 가능성
+avenue,가로수길; (도시의) 큰길
+average,평균; 보통의
+aviation,항공; 비행
+avid,열렬한; 열광적인
+avoidance,회피; 기피
+await,기다리다
+awaiting,기다리는
+award,상; 수여하다
+aware,알고 있는; 인식하는
+awareness,인식; 자각
+awe,경외심; 두려움
+awful,끔찍한; 지독한
+awkward,어색한; 서투른
+axis,축; 중심선
+bachelor,학사; 미혼 남자
+backbone,척추; 중추
+backup,백업; 예비
+badge,배지; 표시
+baffle,당황하게 하다; 좌절시키다
+baggage,수하물; 짐
+balcony,발코니
+ballet,발레
+balloon,풍선; 부풀다
+ban,금지하다; 금지
+bandage,붕대; 붕대를 감다
+bang,쾅 하는 소리; 세게 치다
+bankruptcy,파산
+banner,현수막; 배너
+banquet,연회; 만찬
+barrel,통; 배럴
+barrier,장벽; 장애물
+basement,지하실
+basin,대야; 분지
+battlefield,전장; 전투 현장
+bay,만(灣); 짖다
+beam,광선; 빛; 들보
+beast,야수; 짐승
+beetle,딱정벌레
+beforehand,사전에; 미리
+behalf,~을 대신하여
+behave,행동하다
+behavioral (behavioural),행동의; 행동학의
+beloved,사랑받는; 사랑하는 사람
+benchmark,기준점; 벤치마크
+beneficial,유익한; 이로운
+beneath,~아래에; 하위의
+beside,~옆에
+besides,게다가; ~외에
+bestow,수여하다; 주다
+betray,배신하다; 폭로하다
+beverage,음료
+bias,편견; 치우침
+bid,입찰하다; 시도하다
+billing,청구; 결제
+billionaire,억만장자
+biology,생물학
+biotechnology,생명공학
+birdwatching,조류 관찰
+birthplace,출생지; 발상지
+bizarre,기괴한; 이상한
+bladder,방광
+blade,칼날; 날개
+blast,폭발; 돌풍
+bleach,표백하다; 희게 만들다
+bleed,피를 흘리다
+blend,섞다; 혼합
+bless,축복하다
+blink,깜빡이다
+blizzard,눈보라
+bloody,피투성이의; 잔인한
+bloom,꽃이 피다; 개화
+blossom,꽃이 피다; 번영하다
+blunt,무딘; 퉁명스러운
+blush,얼굴이 붉어지다
+boast,자랑하다; 뽐내다
+bodyguard,경호원
+boiler,보일러; 가열기
+bold,대담한; 굵은 글씨
+bolt,번개; 볼트; 달아나다
+bond,유대; 채권; 결속
+bonus,보너스; 상여
+booklet,소책자
+booth,부스; 칸막이
+boost,증가시키다; 북돋우다
+botanical,식물학의
+botany,식물학
+brace,보조기; 버팀대; 대비하다
+bracket,괄호; 지지대
+brag,자랑하다
+brake,브레이크; 제동하다
+branch,지점; 가지; 분야
+brand-new,완전 새로운
+bravery,용기
+breach,위반; 침해
+breakdown,고장; 붕괴; 분석
+breakthrough,획기적 발전; 돌파구
+breed,번식하다; 품종
+brew,양조하다; 우려내다
+bride,신부
+bridegroom,신랑
+briefcase,서류가방
+brink,직전; 끝
+brittle,부서지기 쉬운
+broadcast,방송하다; 방송
+brochure,안내 책자; 소책자
+bronze,청동; 동메달
+brutal,잔인한; 폭력적인
+bubble,거품; 기포
+bucket,양동이
+buddy,친구; 동료
+budge,움직이다; 태도를 바꾸다
+budget,예산
+buffalo,들소; 버팔로
+bug,곤충; 벌레; 오류(버그)
+bulb,전구; 구근
+bulky,부피가 큰
+bullet,탄환; 총알
+bulletin,게시; 공고
+bump,부딪치다; 충돌
+bunch,다발; 묶음
+bundle,묶음; 꾸러미
+burden,부담; 짐
+bureau,사무국; 기관; 서랍장
+burglar,도둑; 침입자
+burial,매장; 장례식
+burst,터지다; 폭발하다
+bush,덤불; 관목
+butcher,정육점 주인; 도살하다
+butler,집사
+bypass,우회하다; 우회 도로
+cabinet,내각; 장식장
+cafeteria,구내식당; 카페테리아
+calcium,칼슘
+calf,송아지; 종아리
+calorie,칼로리
+campaign,캠페인; 운동
+campus,대학 캠퍼스
+canal,운하; 수로
+canary,카나리아
+cancer,암; 큰 문제
+candid,솔직한; 숨김없는
+candidate,후보자
+cane,지팡이; 사탕수수
+canoe,카누
+canvas,캔버스; 화폭
+capacitor,콘덴서; 축전기
+capacity,용량; 수용력
+capitalism,자본주의
+capsule,캡슐; 작은 용기
+captain,선장; 주장
+caption,자막; 설명문
+captive,포로; 사로잡힌
+capture,붙잡다; 포획하다
+carbon,탄소
+cardboard,판지; 마분지
+cardinal,기본적인; 가장 중요한
+caregiver,간병인
+caretaker,관리인; 돌보는 사람
+cargo,화물; 짐
+carpenter,목수
+carriage,마차; 운반
+carrier,운반자; 통신사; 항공사
+carve,조각하다; 새기다
+cascade,작은 폭포; 폭포처럼 흐르다
+case,경우; 소송; 상자
+cashier,계산원; 캐셔
+cassette,카세트
+casual,평상복의; 무심한; 우연한
+casualty,사상자
+catalog (catalogue),목록; 카탈로그
+catastrophe,재앙; 큰 사고
+catchy,귀에 쏙 들어오는
+cater,음식을 제공하다; 요구를 충족시키다
+caterpillar,애벌레
+cautious,조심스러운; 신중한
+cavity,구멍; 충치
+cease,그만두다; 중지하다
+celebrity,유명인; 스타
+cellar,지하 저장고
+cemetery,묘지; 공동묘지
+census,인구 조사
+ceramic,도자기; 세라믹
+ceremonial,의식의; 예식의
+ceremony,의식; 공식 행사
+certainly,틀림없이; 확실히
+certify,증명하다; 인증하다
+chairperson,의장; 회장
+chalk,분필
+challenge,도전; 과제
+chamber,방; 회의실; 공간
+championship,선수권 대회
+chaos,혼돈; 무질서
+chapel,예배당
+chapter,장(章); 구획
+characteristic,특징; 특성
+charcoal,숯; 목탄
+charge,요금; 충전하다; 기소하다
+charity,자선; 자비
+charm,매력; 부적; 매혹시키다
+chase,뒤쫓다; 추격
+chat,채팅하다; 잡담
+chauffeur,운전사
+cheat,속이다; 부정행위하다
+checklist,체크리스트
+cheer,환호하다; 응원하다
+chef,요리사
+chemical,화학의; 화학 물질
+chemist,화학자; 약사
+cherish,소중히 여기다
+chest,가슴; 상자; 흉부
+chew,씹다
+chief,우두머리; 주요한
+chill,오한; 냉기; 식히다
+chimney,굴뚝
+chip,조각; 칩; 부스러기
+chirp,짹짹 울다
+chlorine,염소(화학)
+chocolate,초콜릿
+choice,선택; 선택권
+choke,질식시키다
+cholesterol,콜레스테롤
+chorus,후렴; 합창단
+cinema,영화관; 영화 산업
+circle,원; 동그라미; 둘러싸다
+circulate,순환하다; 유포하다
+circumstance,상황; 환경
+cite,인용하다; 언급하다
+citizenship,시민권
+civilization (civilisation),문명
+claim,주장하다; 요구하다; 청구
+clam,대합; 조개
+clan,씨족; 집단
+clash,충돌; 격돌
+clasp,걸쇠; 꽉 잡다
+classify,분류하다
+claw,발톱; 갈고리 모양
+clay,점토; 찰흙
+cleanse,깨끗이 하다
+clearance,정리; 허가; 여유 공간
+cling,달라붙다; 고수하다
+clinic,병원; 진료소
+clinical,임상의; 냉정한
+clip,클립; 자르다; 잘라낸 조각
+cloak,망토; 숨기다
+clockwise,시계 방향으로
+clone,복제하다; 클론
+closure,폐쇄; 마감
+clothe,옷을 입히다
+clothing,의류
+cloudy,흐린; 구름 낀
+clue,실마리; 단서
+clutch,움켜잡다; 클러치
+coal,석탄
+coarse,거친; 조악한
+coast,해안; 연안
+coastal,해안의
+coexist,공존하다
+cognition,인식; 인지
+cognitive,인지의
+coil,감다; 코일
+coincidence,우연의 일치
+collaboration,협력; 공동 작업
+collapse,붕괴하다; 무너지다
+collar,칼라; 목걸이
+colleague,동료
+collective,집단적인; 공동의
+collision,충돌
+colonel,대령
+colony,식민지; 군집
+colorful,화려한; 다채로운
+column,기둥; 칼럼; 세로열
+combat,전투하다; 싸움
+combination,결합; 조합
+combine,결합하다; 합치다
+comedy,코미디
+comfort,편안함; 위로하다
+comic,만화; 우스운
+commander,사령관; 지휘관
+commence,시작하다
+commentary,해설; 논평
+commerce,상업; 무역
+commercial,상업의; 광고
+commission,수수료; 위원회; 의뢰하다
+commit,저지르다; 약속하다
+commitment,헌신; 약속
+commodity,상품; 원자재
+commonplace,흔한; 평범한
+communicate,의사소통하다
+communicative,말을 잘하는; 의사소통의
+communist,공산주의자; 공산주의의
+commute,통근하다
+compact,아주 작은; 촘촘한; 압축하다
+comparable,비교할 만한
+comparative,비교의; 상대적인
+compassion,연민; 동정
+compel,강요하다
+compensate,보상하다
+competence,능력; 역량
+competent,유능한
+competition,경쟁
+competitor,경쟁자
+compile,편집하다; 모으다
+complain,불평하다
+complement,보완하다; 보충물
+completion,완료; 마침
+complexity,복잡성
+compliance,준수; 따름
+complicate,복잡하게 만들다
+complication,합병증; 복잡한 문제
+compliment,칭찬; 칭찬하다
+comply,따르다; 준수하다
+component,구성 요소; 부품
+compose,구성하다; 작곡하다
+composer,작곡가
+composite,합성의; 복합물
+compound,혼합물; 합성하다
+comprehend,이해하다
+comprehensive,종합적인; 포괄적인
+compress,압축하다
+compromise,타협하다
+compulsory,의무적인
+compute,계산하다
+conceal,숨기다; 감추다
+concede,인정하다; 양보하다
+conceive,상상하다; 생각하다
+concentrate,집중하다
+concentration,농도; 집중
+conceptual,개념의
+concerned,걱정하는; 관련된
+concert,콘서트; 협조
+conclude,결론을 내리다; 끝내다
+conclusion,결론
+concrete,구체적인; 콘크리트
+condemn,비난하다; 규탄하다
+condense,농축하다; 요약하다
+conditioner,컨디셔너; 조절 장치
+conduct,행동; 수행하다; 전도하다
+confer,수여하다; 협의하다
+confession,고백; 자백
+confide,털어놓다; 신뢰하다
+confine,제한하다; 가두다
+confirm,확인하다
+confirmation,확인
+confiscate,몰수하다
+confront,직면하다
+confuse,혼란시키다
+congestion,교통 체증; 혼잡
+congratulate,축하하다
+congregation,회중; 신도 집단
+conjunction,접속사; 결합
+connectivity,연결성
+conquer,정복하다
+conscience,양심
+conscious,의식하는; 의도적인
+consecutive,연속적인
+consent,동의; 동의하다
+conservation,보존; 보호
+conserve,보존하다; 아끼다
+considerable,상당한
+consideration,고려; 숙고
+consignment,탁송품; 배송
+consistent,일관된
+console,위로하다; 콘솔
+consolidate,강화하다; 통합하다
+consonant,자음
+conspiracy,음모; 모의
+constant,끊임없는; 일정한
+constituent,구성 요소; 유권자
+constitute,구성하다; 설립하다
+constraint,제약; 제한
+construct,건설하다; 구성하다
+consult,상담하다; 참고하다
+consultant,상담가; 자문가
+consumption,소비
+contain,포함하다; 억누르다
+contaminate,오염시키다
+contemplate,숙고하다; 명상하다
+contemporary,현대의; 동시대의
+contempt,경멸; 멸시
+contend,주장하다; 경쟁하다
+content,내용; 만족하는
+continental,대륙의
+continuity,연속성
+continually,지속적으로; 자주
+contractor,계약자; 하청업자
+contradict,모순되다; 반박하다
+contrary,반대의
+contrast,대조하다; 대비
+contribute,기여하다
+contribution,기부; 기여
+controversial,논란의 여지가 있는
+controversy,논쟁
+convenience,편리함
+convention,관례; 대회; 협약
+conventional,전통적인; 일반적인
+conversation,대화
+conversion,전환; 변환
+convertible,전환 가능한; 컨버터블 자동차
+convey,전달하다; 운반하다
+convict,유죄 판결을 내리다; 죄인
+conviction,유죄 판결; 신념
+convince,납득시키다; 설득하다
+convinced,확신하는
+cookbook,요리책
+cooperate,협력하다
+coordinate,조정하다; 좌표
+coordination,조직화; 조정
+cop,경찰관
+cope,대처하다; 맞서다
+copper,구리
+cord,끈; 코드
+corn,옥수수
+coronation,대관식
+corporal,신체의; 상등병
+corporate,기업의
+corporation,기업; 법인
+correlate,연관시키다; 상관이 있다
+correspond,일치하다; 대응하다
+corrupt,부패한; 타락시키다
+cosmetics,화장품
+cosmic,우주의
+cosmos,우주; 코스모스
+costly,값비싼
+cottage,오두막; 시골집
+cotton,면; 목화
+cough,기침하다; 기침
+council,의회; 위원회
+counsel,조언; 상담하다
+counterpart,대응물; 상대방
+countless,무수한
+countrywide,전국적인
+courageous,용감한
+courtroom,법정
+courtyard,안뜰; 마당
+coverage,보도; 범위
+coward,겁쟁이
+cozy (cosy),아늑한
+crab,게
+cradle,요람; 어린 시절
+craft,공예; 기술; 만들다
+crane,기중기; 두루미
+crash,충돌하다; 고장 나다; 충돌
+crate,상자; 나무 궤짝
+crawl,기어가다; 서행하다
+craze,열풍; 대유행
+cream,크림; 고급의
+creamy,부드럽고 진한; 크림 같은
+crease,주름; 구기다
+create,창조하다; 만들다
+creation,창조; 창작
+creative,창의적인
+creature,생물; 피조물
+credential,신임장; 자격 증명
+credible,믿을 만한
+creep,살금살금 걷다; 소름끼치다
+crest,벼슬; 정상; 꼭대기
+crew,승무원; 팀
+cricket,크리켓; 귀뚜라미
+crisp,바삭바삭한; 상쾌한
+criteria,기준(criterion의 복수)
+critic,비평가; 비판자
+critical,중요한; 비판적인
+critique,비평; 평론
+crooked,구부러진; 부정직한
+crop,작물; 수확
+crossing,횡단; 교차로
+crouch,쭈그리다; 웅크리다
+cruise,유람하다; 순항하다
+crumb,부스러기; 작은 조각
+crumble,부서지다; 허물어지다
+crush,으깨다; 짓누르다; 반하다
+crust,표면; 껍질
+crystal,크리스털; 결정
+cube,정육면체; 큐브
+cucumber,오이
+cuisine,요리; 요리법
+cult,종교 집단; 추종
+cultivate,경작하다; 기르다
+cultivation,경작; 양성
+culture,문화; 배양하다
+cumulative,누적되는
+cupboard,찬장; 벽장
+curb,억제하다; 연석
+curiosity,호기심
+curious,호기심 많은; 이상한
+curl,곱슬거리다; 말리다
+currency,통화; 화폐
+current,현재의; 흐름
+curriculum,교육과정
+curtain,커튼
+curve,곡선; 구부리다
+cushion,쿠션; 완화하다
+custody,양육권; 구류
+custom,관습; 세관
+customary,관례적인; 보통의
+customer,고객
+cutting,절단; 잘라낸 조각
+cyclone,사이클론; 회오리바람
+cylinder,원통; 실린더
+cynical,냉소적인
+cypress,사이프러스 나무
+dairy,유제품의; 낙농장
+damp,축축한
+dancer,무용수
+dandruff,비듬
+dangerous,위험한
+dare,감히 ~하다; 도전
+darling,자기야; 귀여운 사람
+dart,화살; 쏘다; 돌진하다
+dash,돌진하다; 대시; 급히 쓰다
+database,데이터베이스
+daytime,낮; 주간
+dazzle,눈부시게 하다; 매료시키다
+deadly,치명적인
+deaf,청각장애의; 귀머거리의
+deal,거래; 다루다
+dealer,상인; 딜러
+deane,학장(dean의 변형)
+debris,잔해; 파편
+debt,빚; 부채
+debug,디버그하다; 오류를 잡다
+debut,데뷔; 첫 출연
+decay,부패; 쇠퇴
+deceive,속이다; 기만하다
+December,12월
+decent,점잖은; 괜찮은
+deception,속임수; 기만
+declare,선언하다
+decline,감소하다; 거절하다
+decode,해독하다
+decorate,장식하다
+decoration,장식; 꾸밈
+decorative,장식적인
+decrease,감소하다
+dedicate,헌신하다; 바치다
+deduction,추론; 공제
+deed,행위; 업적
+deem,간주하다; 생각하다
+deer,사슴
+defect,결함; 탈주하다
+defend,방어하다; 옹호하다
+defender,수비수; 방어자
+deficiency,부족; 결핍
+deficit,적자; 부족
+deflate,수축시키다; 기를 꺾다
+deflect,방향을 바꾸다
+defy,반항하다; 무시하다
+degrade,비하하다; 저하시키다
+dehydration,탈수
+deity,신; 여신
+delay,지연; 연기하다
+delegate,대표자; 위임하다
+delegation,대표단; 위임
+delete,삭제하다
+deliberate,신중한; 고의적인; 숙고하다
+delicate,섬세한; 민감한
+delicious,맛있는
+delight,기쁨; 기쁘게 하다
+delightful,즐거운; 기분 좋은
+delinquent,비행의; 범죄자
+deliver,배달하다; 연설하다; 출산하다
+delivery,배달; 분만
+demand,요구하다; 수요
+democracy,민주주의
+democratic,민주적인
+demographic,인구 통계의
+demolish,철거하다; 파괴하다
+demon,악마; 귀신
+denial,부정; 거부
+denote,나타내다; 의미하다
+dense,빽빽한; 밀집한
+density,밀도
+dent,찌그러진 곳; 움푹 들어가게 하다
+dental,치과의
+deny,부인하다; 거절하다
+depart,출발하다
+departure,출발; 출국
+dependence,의존
+dependent,의존적인
+depict,묘사하다
+deployment,배치; 전개
+deposit,예금하다; 보증금
+depress,우울하게 하다; 누르다
+depression,우울증; 불황
+deprive,빼앗다
+deputy,대리인; 부~
+derive,유래하다; 끌어내다
+descend,내려가다; 하강하다
+descent,하강; 혈통
+describe,묘사하다
+description,설명; 묘사
+desert,사막; 버리다
+deserve,~할 가치가 있다
+designate,지정하다; 지명하다
+desirable,바람직한; 원하는
+despair,절망; 절망하다
+desperate,절망적인; 필사적인
+despise,경멸하다; 얕보다
+destination,목적지; 도착지
+destiny,운명
+detach,분리하다; 떼다
+detain,구금하다; 붙잡다
+detect,감지하다; 발견하다
+detection,탐지; 발견
+detective,형사; 탐정
+deter,단념시키다; 막다
+detergent,세제
+deteriorate,악화되다
+determine,결정하다; 알아내다
+determination,결심; 결정
+detonate,폭발시키다
+detrimental,해로운
+devastate,황폐시키다; 파괴하다
+developing,개발도상국의; 발전 중인
+deviate,벗어나다; 일탈하다
+device,장치; 기기
+devise,고안하다; 발명하다
+devote,헌신하다; 바치다
+devoted,헌신적인
+devotion,헌신; 애정
+diagnose,진단하다
+diagnosis,진단
+diagram,도표; 도식
+dialect,방언; 사투리
+dialogue (dialog),대화
+diameter,지름
+dictate,지시하다; 받아쓰게 하다
+dictation,받아쓰기
+differ,다르다; 의견이 다르다
+differentiate,구별하다; 차별화하다
+diffuse,확산시키다; 퍼뜨리다
+digest,소화하다; 요약하다
+digestive,소화의
+digit,숫자; 손가락 또는 발가락
+dignity,존엄; 위엄
+diligent,근면한; 성실한
+dilute,희석하다
+dim,흐릿한; 어두운
+dimension,차원; 크기; 규모
+diminish,줄어들다; 감소하다
+dine,식사하다
+diploma,졸업장; 자격증
+diplomatic,외교의; 외교적인
+directory,명부; 디렉토리
+disable,무능하게 하다; 장애를 입히다
+disappoint,실망시키다
+disappointment,실망
+disaster,재난; 참사
+disastrous,재앙의; 끔찍한
+discharge,배출하다; 방출하다; 퇴원시키다
+discipline,규율; 훈육하다
+disclose,밝히다; 공개하다
+discomfort,불편; 불쾌감
+disconnect,연결을 끊다
+discount,할인; 할인하다
+discourage,낙담시키다; 억누르다
+discourse,담론; 이야기
+discover,발견하다
+discreet,신중한; 조심스러운
+discrepancy,불일치; 모순
+discretion,재량; 신중함
+discriminate,차별하다; 구별하다
+discuss,토론하다; 논의하다
+disgust,역겨움; 혐오하게 하다
+dishonest,정직하지 않은
+dismantle,해체하다
+dismay,당황; 실망하게 하다
+dismiss,해고하다; 묵살하다
+disorder,장애; 무질서
+disperse,흩어지다; 분산시키다
+displace,대체하다; 옮기다
+display,전시하다; 화면
+displease,불쾌하게 하다
+disposal,처분; 처리
+dispose,처분하다; 배치하다
+disregard,무시하다; 소홀히 하다
+disrupt,방해하다; 붕괴시키다
+dissection,해부
+dissolve,녹이다; 용해하다; 해산하다
+distant,먼; 떨어진
+distill,증류하다
+distinct,뚜렷한; 별개의
+distinction,구별; 차별; 명예
+distinctive,특징적인; 독특한
+distinguish,구별하다
+distort,왜곡하다
+distract,정신을 산만하게 하다
+distraction,산만함; 주의 산만 요소
+distress,괴로움; 고통
+distribute,분배하다; 배포하다
+distribution,분배; 유통
+district,구역; 지역
+disturb,방해하다
+ditch,도랑; 버리다; 포기하다
+dive,잠수하다; 뛰어들다
+diverse,다양한
+diversity,다양성
+divert,전환하다; 딴 데로 돌리다
+divine,신성한; 멋진
+division,분할; 부서; 나눗셈
+dizzy,어지러운
+dock,부두; 접안하다
+doctrine,교리; 원칙
+documentary,다큐멘터리; 문서의
+domain,영역; 도메인
+donate,기부하다
+donor,기부자; 공여자
+doom,운명짓다; 파멸
+dormitory,기숙사
+dose,복용량; 투약하다
+dot,점; 찍다
+dough,반죽
+dove,비둘기
+downward,아래쪽으로
+downstairs,아래층에
+downtown,도심; 시내
+dozen,12개; 다스
+draft,초안; 징집하다
+drag,끌다; 끌고 가다
+drain,배수하다; 물을 빼다
+drama,연극; 드라마
+dramatic,극적인; 인상적인
+drastic,급격한; 과감한
+drawback,단점; 문제점
+drawer,서랍
+dread,두려워하다; 공포
+drench,흠뻑 적시다
+drift,표류하다; 떠돌다
+drill,드릴; 구멍을 뚫다; 훈련하다
+drip,뚝뚝 떨어지다
+drought,가뭄
+drown,익사하다; 물에 빠지다
+drowsy,졸리는
+drum,북; 드럼; 북을 치다
+drunk,술 취한
+dryness,건조함
+dual,이중의; 두 가지의
+dub,별명을 붙이다; 더빙하다
+duct,관; 덕트
+dull,지루한; 무딘
+dump,버리다; 폐기물 처리장
+duplicate,복사하다; 이중의
+durable,내구성 있는
+duration,지속 기간
+dusk,황혼; 땅거미
+dusty,먼지가 많은
+duty,의무; 임무
+dwell,살다; 거주하다
+dweller,거주자
+dwelling,주택; 거주지
+dynamic,역동적인; 활기찬
+dysfunction,기능 장애
+eager,열렬한; 간절히 원하는
+eagle,독수리
+earl,백작(귀족 칭호)
+earnest,진지한; 성실한
+earthquake,지진
+ease,쉬움; 완화하다
+easily,쉽게; 수월하게
+echo,메아리; 울리다
+ecology,생태학
+ecosystem,생태계
+edge,모서리; 우위
+edible,먹을 수 있는
+editorial,사설; 편집의
+educator,교육자
+effectiveness,효과성
+efficient,효율적인
+ego,자아; 자존심
+elaborate,정교한; 공들이다
+elastic,탄력 있는; 고무줄
+elbow,팔꿈치
+elderly,노년의; 어르신들
+electrical,전기의
+electronics,전자공학; 전자기기
+elegant,우아한; 멋진
+elementary,기초의; 초등의
+elevate,올리다; 향상시키다
+eligible,자격이 있는
+eliminate,제거하다; 없애다
+elite,엘리트; 우수한
+embark,승선하다; 시작하다
+embarrass,당황하게 하다
+embassy,대사관
+embed,삽입하다; 박아 넣다
+embrace,포옹하다; 받아들이다
+emerge,드러나다; 나타나다
+emergency,비상사태
+emit,방출하다; 내뿜다
+emotion,감정
+emotional,감정적인
+empathize,공감하다
+emperor,황제
+emphasis,강조
+emphasize,강조하다
+empire,제국
+empirical,경험적인; 실증적인
+employ,고용하다; 사용하다
+employee,직원; 근로자
+employer,고용주
+empower,권한을 부여하다
+enable,가능하게 하다
+enact,제정하다; 공연하다
+enchant,매혹하다
+enclose,동봉하다; 둘러싸다
+encode,암호화하다
+encounter,마주치다; 만남
+encourage,격려하다
+endanger,위험에 빠뜨리다
+endeavor (endeavour),노력하다; 시도
+endorse,지지하다; 승인하다
+endure,견디다; 지속하다
+energetic,활기 넘치는
+enforce,집행하다; 강요하다
+engage,관여하다; 약속하다; 사로잡다
+engagement,약혼; 참여
+engineer,기술자; 공학자
+enhance,강화하다; 향상시키다
+enlighten,깨우치다; 계몽하다
+enlist,입대하다; 도움을 얻다
+enrich,풍부하게 하다
+enroll (enrol),등록하다; 입학시키다
+enslave,노예로 만들다
+ensure,보장하다; 확실하게 하다
+entail,수반하다
+enterprise,기업; 사업
+entertain,즐겁게 하다; 접대하다
+enthusiasm,열정
+enthusiastic,열광적인
+entire,전체의; 온전한
+entitle,자격을 주다; 제목을 붙이다
+entity,실체; 개체
+entrepreneur,기업가; 창업가
+enumerate,열거하다
+envelope,봉투
+environmental,환경의
+envision,상상하다; 예측하다
+enzyme,효소
+epic,서사시; 웅장한
+epidemic,전염병; 유행병
+episode,삽화; 에피소드
+epoch,시대; 획기적 시대
+equal,동등한; 평등한
+equality,평등
+equation,방정식; 동일시
+equip,장비를 갖추다
+equipment,장비
+equivalent,동등한; 상당하는 것
+era,시대
+eradicate,근절하다; 제거하다
+erase,지우다; 삭제하다
+erect,세우다; 직립한
+erosion,침식; 부식
+errand,심부름
+escalate,확대되다; 고조되다
+escape,탈출하다; 피하다
+escort,호위하다; 동반자
+essence,본질; 정수
+essential,필수적인
+establish,설립하다; 확립하다
+estate,부동산; 재산
+estimate,추정하다; 견적
+eternal,영원한
+ethic,윤리; 도덕
+ethical,윤리적인
+ethnic,민족의; 인종의
+evacuate,대피시키다
+evade,피하다; 회피하다
+evaluate,평가하다
+evaluation,평가
+evaporate,증발하다
+eve,전날; 전야
+even,심지어; 평평한; 짝수의
+evenly,균등하게; 고르게
+eventually,결국
+everlasting,영원한
+evident,분명한
+evolution,진화; 발전
+evolve,진화하다; 발달하다
+exaggerate,과장하다
+exam,시험
+exceed,초과하다; 능가하다
+excel,뛰어나다
+excellent,훌륭한
+excerpt,발췌; 인용
+exchange,교환하다; 거래
+excite,흥분시키다; 자극하다
+exclude,제외하다
+exclusion,제외; 배제
+exclusive,독점적인; 배타적인
+excursion,소풍; 여행
+excuse,변명; 용서하다
+execute,실행하다; 처형하다
+execution,실행; 처형
+executive,임원; 간부; 실행의
+exercise,운동; 연습
+exert,행사하다; 발휘하다
+exhaust,지치게 하다; 배기
+exhibit,전시하다; 드러내다
+exile,추방; 망명
+exit,출구; 나가다
+exotic,이국적인
+expand,확장하다
+expansion,확대; 확장
+expel,추방하다; 몰아내다
+expenditure,지출
+expertise,전문지식
+expire,만료되다; 숨을 거두다
+explicit,명백한; 분명한
+explode,폭발하다
+exploit,착취하다; 활용하다; 위업
+explore,탐험하다; 탐구하다
+explosion,폭발
+export,수출하다
+expose,드러내다; 노출시키다
+exposure,노출; 폭로
+express,표현하다; 급행
+expression,표현; 표정
+extend,확장하다; 연장하다
+extension,연장; 확장
+extensive,광범위한
+extent,범위; 정도
+exterior,외부의; 외관
+external,외부의
+extinct,멸종한
+extinguish,끄다; 진화하다
+extra,추가의; 별도의
+extract,추출하다; 발췌하다
+extraordinary,비범한; 이상한
+extreme,극단의; 심한
+eyebrow,눈썹
+eyelid,눈꺼풀
+fabric,직물; 구조
+fabulous,멋진; 놀라운
+facilitate,촉진하다; 용이하게 하다
+facility,시설; 편의
+faction,파벌; 분파
+factor,요인; 요소
+factory,공장
+faculty,교수진; 능력
+fade,희미해지다; 바래다
+failed,실패한
+fairy,요정
+faithful,충실한; 신뢰할 수 있는
+fake,가짜의; 위조품
+fame,명성
+famine,기근
+familiarize,익숙하게 하다
+famine,기근
+famous,유명한
+fanatic,열광적인 사람; 광신적인
+fancy,화려한; 장식적인; 좋아하다
+fantasy,환상; 공상
+farmland,농지
+fascinate,매료시키다
+fatal,치명적인; 중대한
+fateful,중대한; 운명적인
+fatigue,피로; 피곤
+faulty,결함 있는
+favorable,우호적인; 호의적인
+feasible,실행 가능한; 그럴듯한
+feast,축제; 연회
+feather,깃털
+feature,특징; 기능; 출연하다
+federal,연방의
+federation,연합; 연맹
+feeble,약한; 허약한
+feedback,피드백; 반응
+feeling,감정; 느낌
+fellowship,동료애; 단체
+feminine,여성의; 여성스러운
+fence,울타리; 담장
+fertile,비옥한; 풍부한
+fertilizer,비료
+festival,축제
+feud,반목; 불화
+fever,열; 열기
+fiction,소설; 허구
+fiddle,바이올린을 켜다; 만지작거리다
+fierce,사나운; 격렬한
+figure,숫자; 인물; 형태; 이해하다
+filament,가는 실; 전구의 필라멘트
+finance,재정; 자금 조달
+financial,재정의; 금융의
+findings,결과; 발견된 사실
+fine,좋은; 벌금
+fingertip,손끝
+firm,단단한; 회사
+firmly,단단하게; 견고하게
+fitness,건강; 체력
+flame,불꽃; 열망
+flammable,인화성의
+flare,빛나다; 번쩍이다
+flash,번쩍임; 섬광; 플래시
+flat,평평한; 아파트
+flatter,아첨하다; 돋보이게 하다
+flaw,결점; 흠
+flee,도망치다; 달아나다
+fleet,함대; 빠른
+flesh,살; 과육
+flexible,유연한; 융통성 있는
+flicker,깜빡이다; 흔들리다
+fling,내던지다; 던지기
+flip,뒤집다; 휙 넘기다
+float,뜨다; 떠오르다
+flock,떼; 모이다
+flood,홍수; 범람하다
+floor,바닥; 층
+flourish,번창하다; 번영하다
+fluctuate,변동하다
+fluid,액체; 유동체
+flute,플루트; 피리
+flutter,팔랑거리다; 떨다
+foam,거품; 거품이 일다
+focus,초점을 맞추다; 집중하다
+foe,적; 적대자
+foil,은박지; 좌절시키다
+fold,접다; 배 이상 되는 부분
+folk,사람들; 민속의
+follow-up,후속 조치; 추적
+fond,좋아하는; 다정한
+foolish,어리석은
+forbid,금지하다
+forecast,예보하다; 예측
+forehead,이마
+foreign,외국의
+foreigner,외국인
+foresee,예견하다
+forest,숲
+forever,영원히
+forge,위조하다; 단조하다; 만들다
+format,형식; 서식
+formation,형성; 구조
+former,이전의; 전자
+formula,공식; 조제법
+formulate,공식화하다; 표현하다
+fort,요새; 성채
+forth,앞으로; 밖으로
+fortunate,운이 좋은
+fortune,재산; 운
+forum,토론회; 포럼
+fossil,화석
+foster,양육하다; 촉진하다
+foundation,토대; 재단; 기초
+founder,창립자; 설립자
+fraction,부분; 분수
+fragile,부서지기 쉬운
+fragment,파편; 조각
+fragrant,향기로운
+framework,틀; 체계
+franchise,프랜차이즈; 독점권
+frank,솔직한; 숨김없는
+fraud,사기; 속임수
+freak,기이한 일; 괴짜
+freight,화물; 운송
+French,프랑스의; 프랑스인
+frequency,빈도; 주파수
+frequent,빈번한
+freshman,신입생
+friction,마찰
+fright,공포; 경악
+frustrate,좌절시키다
+fry,튀기다; 굽다
+fulfill (fulfil),이행하다; 실현하다
+full-time,전일제의
+functional,기능적인
+fundamental,근본적인; 기본적인
+funeral,장례식
+furious,격노한; 맹렬한
+furnace,용광로; 난로
+furnish,제공하다; 갖추다
+furniture,가구
+furthermore,게다가
+fuse,융합하다; 퓨즈
+fusion,융합; 결합
+futile,헛된; 소용없는
+gain,얻다; 증가; 이익
+galaxy,은하; 은하계
+gallery,미술관; 갤러리
+gamble,도박하다; 위험을 무릅쓰다
+gang,갱단; 무리
+gap,틈; 격차
+garbage,쓰레기
+garden,정원
+gardener,정원사
+garlic,마늘
+garment,의복; 옷
+gasoline,가솔린; 휘발유
+gathering,모임; 수집
+gauge,측정하다; 게이지
+gaze,응시하다
+gear,기어; 장비
+gem,보석
+gender,성별
+gene,유전자
+generalize,일반화하다
+generate,생성하다; 만들어내다
+generation,세대; 발생
+generous,관대한; 후한
+genetic,유전의; 유전적인
+genius,천재; 비범한 재능
+genre,장르; 유형
+gentle,온화한; 부드러운
+genuine,진짜의; 진실한
+geographic,지리의
+geology,지질학
+geometry,기하학
+germ,세균; 미생물
+gesture,몸짓; 제스처
+giant,거인; 매우 큰
+gigantic,거대한; 엄청난
+ginger,생강
+glacier,빙하
+glance,흘끗 보다
+glare,노려보다; 눈부신 빛
+glide,미끄러지듯 나아가다
+glimpse,흘끗 봄; 일견
+glitter,반짝이다; 빛나다
+global,세계적인; 지구의
+globalization,세계화
+globe,지구본; 구
+gloom,우울; 침울
+glorious,영광스러운; 화려한
+glow,빛나다; 발광하다
+glue,풀; 접착하다
+goalkeeper,골키퍼
+gorgeous,아주 멋진; 화려한
+gorilla,고릴라
+govern,통치하다; 지배하다
+governor,주지사; 통치자
+grace,우아함; 품위
+gracious,친절한; 우아한
+grade,등급; 학년; 성적
+gradual,점진적인
+graduate,졸업하다; 대학원생(graduate student)
+grain,곡물; 알갱이
+grammar,문법
+grammatical,문법적인
+grand,웅장한; 위대한
+grant,허가하다; 보조금
+grape,포도
+graphic,그림의; 그래픽
+graphics,그래픽스; 도형 처리
+grasp,붙잡다; 이해하다
+grateful,감사하는
+gratitude,감사; 고마움
+grave,무덤; 심각한
+gravity,중력; 엄숙함
+graze,풀을 뜯다; 스치다
+grease,기름; 윤활유
+greatly,크게; 매우
+greed,탐욕
+greedy,탐욕스러운
+greenhouse,온실
+greet,인사하다
+grief,슬픔; 비탄
+grin,씨익 웃다
+grind,갈다; 연마하다
+grip,잡다; 꽉 쥐다
+grit,모래; 용기
+groan,신음하다; 불평하다
+grocer,식료품점 주인
+groom,신랑; 단장하다
+gross,총계의; 역겨운
+guarantee,보증하다; 보증
+guardian,보호자
+guerrilla,게릴라
+guidance,지도; 안내
+guideline,지침; 가이드라인
+guilt,죄책감; 유죄
+guilty,죄책감 있는; 유죄의
+gulf,만; 간극
+gum,잇몸; 껌
+gunpowder,화약
+guts,용기; 배짱
+gymnastics,체조
+habitual,습관적인
+habitat,서식지
+hail,우박; 환호하다
+hairdresser,미용사
+hallmark,특징; 품질 보증 마크
+halt,멈추다; 중단
+hamper,방해하다; 빨래바구니
+handbook,안내서; 매뉴얼
+handicap,장애; 불리한 조건
+handicraft,수공예
+handout,유인물; 나눠주는 것
+handy,편리한; 가까이에 있는
+happen,발생하다
+harass,괴롭히다
+harbor (harbour),항구; 피난처
+hardware,하드웨어; 장비
+hardly,거의 ~아니다
+hardship,고난; 역경
+harmful,해로운
+harmony,조화; 화음
+harness,마구; 이용하다
+harsh,가혹한; 거친
+harvest,수확하다; 수확물
+haste,서두름
+hasten,서두르다
+hatch,부화하다; 해치다
+haul,끌다; 운반하다
+haunt,출몰하다; 괴롭히다
+hazard,위험; 유해 요소
+hazardous,위험한; 유해한
+headline,헤드라인; 주요 뉴스 제목
+hearing,청력; 청문회
+heartfelt,진심 어린
+hearty,푸짐한; 따뜻한
+heating,난방
+hectic,정신없이 바쁜
+hedge,울타리; 방지책
+heed,주의하다; 주의
+heighten,높이다; 강화하다
+heir,상속인; 후계자
+helicopter,헬리콥터
+helmet,헬멧
+hemisphere,반구; 영역
+heritage,유산; 전통
+heroic,영웅적인; 용감한
+hesitate,망설이다
+hidden,숨겨진
+highlight,강조하다; 하이라이트
+hilarious,아주 웃기는
+hinder,방해하다
+hinge,경첩; ~에 달려 있다
+hint,힌트; 암시하다
+hip,엉덩이; 고관절
+hire,고용하다; 빌리다
+hiss,쉬익 소리; 쉬익거리다
+historian,역사학자
+historic,역사적인
+historical,역사와 관련된
+hobby,취미
+hoe,괭이; 괭이로 파다
+holly,호랑가시나무
+homeland,조국; 고향
+homeless,집 없는; 노숙자
+homesick,향수병의
+homogeneous,동질의; 균질의
+honesty,정직; 성실
+honorary,명예의
+hook,갈고리; 걸다
+hop,깡충 뛰다; 희망하다
+hopeful,희망에 찬
+horizon,지평선; 시야
+horizontal,수평의
+horn,뿔; 경적
+horrify,무섭게 하다; 놀라게 하다
+hose,호스; 물을 뿌리다
+hospitality,환대; 접대
+hostage,인질
+hostile,적대적인
+hover,맨돌다; 떠다니다
+hug,포옹하다; 포옹
+humble,겸손한; 비천한
+humid,습한
+humidity,습도
+humiliate,굴욕감을 주다
+hunch,예감; 직감
+hunger,굶주림; 배고픔
+hurdle,장애물; 허들
+hurl,던지다; 내던지다
+hurricane,허리케인
+hurry,서두르다
+husband,남편
+hygiene,위생
+hypothesis,가설
+luxurious,호화로운; 사치스러운
+lyrics,가사
+machine,기계
+machinery,기계류; 장비
+madam,부인; 아줌마
+magazine,잡지
+magic,마법; 신비로운
+magician,마술사
+magnet,자석
+magnetic,자석의; 자성을 띤
+magnificent,웅장한; 멋진
+magnitude,규모; 중요성
+maid,하녀; 소녀
