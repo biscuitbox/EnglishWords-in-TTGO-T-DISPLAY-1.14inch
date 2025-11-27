@@ -309,6 +309,11 @@ void loop() {
     lastInteraction = now;
   }
 
+    // ✅ 상태와 상관없이 1분 무입력이면 딥슬립
+  if (now - lastInteraction > IDLE_SLEEP_MS) {
+    enterDeepSleep();
+  }
+
   switch (appState) {
     case STATE_SPLASH:
       if (prevPressed || nextPressed) {
@@ -332,9 +337,9 @@ void loop() {
         }
       }
 
-      if (now - lastInteraction > IDLE_SLEEP_MS) {
-        enterDeepSleep();
-      }
+      //if (now - lastInteraction > IDLE_SLEEP_MS) {
+      //  enterDeepSleep();
+      //}
       break;
   }
 
